@@ -202,7 +202,7 @@ for i=1:size(Elist,1)
     for k=1%nfold
         Itrain=find(Ind~=k);
         Itest=find(Ind==k);
-        for P_missing=0.00:0.02:0.1
+        for P_missing=0.00%:0.02:0.1
             perfPer=[];
             
             gKx_tr = K(Itrain,Itrain);
@@ -214,7 +214,13 @@ for i=1:size(Elist,1)
             M_rd=reshape(randsample([0,1],(size(gY_tr,1)-round(size(gY_tr,1)/2)+1)*size(gY_tr,2),true,[P_missing,1-P_missing]), (size(gY_tr,1)-round(size(gY_tr,1)/2)+1),size(gY_tr,2));
             gY_tr(round(size(gY_tr,1)/2):size(gY_tr,1),:)=gY_tr(round(size(gY_tr,1)/2):size(gY_tr,1),:) .* M_rd;
             
-            for per=0.1:0.1:1
+            if P_missing==0
+                start=0.1;
+            else
+                start=0.6;
+            end
+            
+            for per=0.5:0.1:0.6
                 size(gY_tr)
                 Iper=1:round(size(gY_tr,1)*per);
                 Kx_tr=gKx_tr(Iper,Iper);
@@ -228,8 +234,11 @@ for i=1:size(Elist,1)
                 [acc,vecacc,pre,rec,f1,auc1,auc2]=get_performance((Y_ts==1),(Ypred_ts==1));
                 perfPer=[perfPer;[acc,vecacc,pre,rec,f1,auc1,auc2]]
             end
-            if P_mis
-            prefPer_prev=prefPer;
+            if P_missing==0
+                perfPer_prev=perfPer;
+            else
+                perfPer=[perfPer_prev(1:5,:);perfPer];
+            end
             
             % save results
             dlmwrite(sprintf('../results/%s_%.2f_perfMissing',name{1},P_missing),perfPer)

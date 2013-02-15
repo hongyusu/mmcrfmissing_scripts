@@ -123,7 +123,7 @@ function rtn=learn_MMCRFmissing
         Kxx_mu_x=prev_Kxx_mu_x;
     end
     % continue searching 
-    if 1==1
+    if 1==0
         opt_mu=0;
         ts_err=1e10;
         tr_err=1e10;

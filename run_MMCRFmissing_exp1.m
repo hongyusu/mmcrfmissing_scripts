@@ -203,30 +203,33 @@ for i=1:size(Elist,1)
         Itrain=find(Ind~=k);
         Itest=find(Ind==k);
         for P_missing=0.00:0.02:0.1
+            
             perfPer=[];
             
             gKx_tr = K(Itrain,Itrain);
             gKx_ts = K(Itest,Itrain)';
             gY_tr = Y(Itrain,:); gY_tr(gY_tr==0)=-1;
             gY_ts = Y(Itest,:); gY_ts(gY_ts==0)=-1;
-
+            
             % missing at random
-            M_rd=reshape(randsample([0,1],(size(gY_tr,1)-round(size(gY_tr,1)/2)+1)*size(gY_tr,2),true,[P_missing,1-P_missing]), (size(gY_tr,1)-round(size(gY_tr,1)/2)+1),size(gY_tr,2));
-            gY_tr(round(size(gY_tr,1)/2):size(gY_tr,1),:)=gY_tr(round(size(gY_tr,1)/2):size(gY_tr,1),:) .* M_rd;
+            NtrP=0.4;
+            M_rd=reshape(randsample([0,1],(size(gY_tr,1)-round(size(gY_tr,1)*NtrP))*size(gY_tr,2),true,[P_missing,1-P_missing]),...
+                size(gY_tr,1)-round(size(gY_tr,1)*NtrP),size(gY_tr,2));
+            gY_tr(round(size(gY_tr,1)*NtrP+1):size(gY_tr,1),:)=gY_tr(round(size(gY_tr,1)*NtrP+1):size(gY_tr,1),:) .* M_rd;
             
             if P_missing==0
-                start=0.1;
+                start=0.05;
             else
-                start=0.6;
+                start=NtrP;
             end
             
-            for per=start:0.1:1
-                size(gY_tr)
+            for per=start:0.05:1
                 Iper=1:round(size(gY_tr,1)*per);
                 Kx_tr=gKx_tr(Iper,Iper);
                 Kx_ts=gKx_ts(Iper,:);
                 Y_tr=gY_tr(Iper,:);
                 Y_ts=gY_ts;
+                
                 % running on x% data
                 rtn = learn_MMCRFmissing;
                 % collect results
@@ -237,7 +240,7 @@ for i=1:size(Elist,1)
             if P_missing==0
                 perfPer_prev=perfPer;
             else
-                perfPer=[perfPer_prev(1:5,:);perfPer];
+                perfPer=[perfPer_prev(1:7,:);perfPer];
             end
             
             % save results
