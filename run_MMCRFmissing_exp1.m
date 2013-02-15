@@ -212,7 +212,7 @@ for i=1:size(Elist,1)
             gY_ts = Y(Itest,:); gY_ts(gY_ts==0)=-1;
             
             % missing at random
-            NtrP=0.4;
+            NtrP=0.3;
             M_rd=reshape(randsample([0,1],(size(gY_tr,1)-round(size(gY_tr,1)*NtrP))*size(gY_tr,2),true,[P_missing,1-P_missing]),...
                 size(gY_tr,1)-round(size(gY_tr,1)*NtrP),size(gY_tr,2));
             gY_tr(round(size(gY_tr,1)*NtrP+1):size(gY_tr,1),:)=gY_tr(round(size(gY_tr,1)*NtrP+1):size(gY_tr,1),:) .* M_rd;
@@ -235,19 +235,18 @@ for i=1:size(Elist,1)
                 % collect results
                 load(sprintf('Ypred_%s.mat', params.filestem));
                 [acc,vecacc,pre,rec,f1,auc1,auc2]=get_performance((Y_ts==1),(Ypred_ts==1));
-                perfPer=[perfPer;[acc,vecacc,pre,rec,f1,auc1,auc2]]
+                perfPer=[perfPer;[per,acc,vecacc,pre,rec,f1,auc1,auc2]]
             end
             if P_missing==0
                 perfPer_prev=perfPer;
             else
-                perfPer=[perfPer_prev(1:7,:);perfPer];
+                perfPer=[perfPer_prev(1:5,:);perfPer];
             end
             
             % save results
             dlmwrite(sprintf('../results/%s_%.2f_perfMissing',name{1},P_missing),perfPer)
         end
     end
-    plot(perfPer(:,1))
 end
 
 
