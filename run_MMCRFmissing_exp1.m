@@ -76,10 +76,10 @@ end
 % 
 %------------
 % parameter selection
-mmcrf_cs=[50]%,10,5,1,0.5,0.1,0.01];
-mmcrf_gs=[0.8]%,0.7,0.6];
-if 1==0
-Isel = randsample(1:size(K,2),ceil(size(K,2)*.2));
+mmcrf_cs=[50,10,5,1,0.5,0.1,0.01];
+mmcrf_gs=[0.8,0.7,0.6];
+if 1==1
+Isel = randsample(1:size(K,2),ceil(size(K,2)*.5));
 IselTrain=Isel(1:ceil(numel(Isel)/3*2));
 IselTest=Isel((ceil(numel(Isel)/3*2+1)):numel(Isel));
 selRes=zeros(numel(mmcrf_gs),numel(mmcrf_cs));
@@ -202,7 +202,7 @@ for i=1:size(Elist,1)
     for k=1%nfold
         Itrain=find(Ind~=k);
         Itest=find(Ind==k);
-        for P_missing=0.00:0.04:0.2
+        for P_missing=[0.00,0.05:0.1:0.4]
             
             perfPer=[];
             
@@ -212,7 +212,7 @@ for i=1:size(Elist,1)
             gY_ts = Y(Itest,:); gY_ts(gY_ts==0)=-1;
             
             % missing at random
-            NtrP=0.3;
+            NtrP=0.2;
             M_rd=reshape(randsample([0,1],(size(gY_tr,1)-round(size(gY_tr,1)*NtrP))*size(gY_tr,2),true,[P_missing,1-P_missing]),...
                 size(gY_tr,1)-round(size(gY_tr,1)*NtrP),size(gY_tr,2));
             gY_tr(round(size(gY_tr,1)*NtrP+1):size(gY_tr,1),:)=gY_tr(round(size(gY_tr,1)*NtrP+1):size(gY_tr,1),:) .* M_rd;
@@ -220,7 +220,7 @@ for i=1:size(Elist,1)
             if P_missing==0
                 start=0.05;
             else
-                start=NtrP;
+                start=NtrP+0.05;
             end
             
             for per=start:0.05:1
@@ -240,7 +240,7 @@ for i=1:size(Elist,1)
             if P_missing==0
                 perfPer_prev=perfPer;
             else
-                perfPer=[perfPer_prev(1:5,:);perfPer];
+                perfPer=[perfPer_prev(1:4,:);perfPer];
             end
             
             % save results
