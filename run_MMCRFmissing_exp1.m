@@ -149,11 +149,6 @@ end
 
 
 
-mmcrf_c=mmcrf_cs(1)
-mmcrf_g=mmcrf_gs(1)
-
-
-
 %------------
 %
 % predict with missing (exp1)
@@ -203,7 +198,7 @@ for i=1:size(Elist,1)
         Itrain=find(Ind~=k);
         Itest=find(Ind==k);
         %for P_missing=[0.00,0.05:0.1:0.4]
-        for P_missing=[0.45:0.1:1]
+        for P_missing=[0.00,0.05:0.1:1]
             
             perfPer=[];
             
