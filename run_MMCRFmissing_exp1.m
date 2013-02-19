@@ -202,7 +202,8 @@ for i=1:size(Elist,1)
     for k=1%nfold
         Itrain=find(Ind~=k);
         Itest=find(Ind==k);
-        for P_missing=[0.00,0.05:0.1:0.4]
+        %for P_missing=[0.00,0.05:0.1:0.4]
+        for P_missing=[0.45:0.1:1]
             
             perfPer=[];
             
