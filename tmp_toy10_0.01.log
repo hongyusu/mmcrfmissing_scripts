@@ -1,0 +1,15 @@
+21-Feb-2013 13:53:01: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:53:01: td: 0 err_tr: 154 (46.11) ml.loss tr: 285 (8.53) obj: 2.880171e+01
+21-Feb-2013 13:53:01: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) err_ts: 106 (63.86) ml.loss ts: 255 (15.36) obj: 0
+21-Feb-2013 13:54:10: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:54:11: td: 0 err_tr: 154 (46.11) ml.loss tr: 285 (8.53) obj: 2.880171e+01
+21-Feb-2013 13:54:11: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) err_ts: 106 (63.86) ml.loss ts: 255 (15.36) obj: 0
+21-Feb-2013 13:56:04: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:56:04: td: 0 err_tr: 154 (46.11) ml.loss tr: 285 (8.53) obj: 2.880171e+01
+21-Feb-2013 13:56:04: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) err_ts: 106 (63.86) ml.loss ts: 255 (15.36) obj: 0
+21-Feb-2013 13:56:10: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:56:10: td: 1 err_tr: 154 (46.11) ml.loss tr: 285 (8.53) obj: 2.880171e+01
+21-Feb-2013 13:56:10: td: 1 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) err_ts: 106 (63.86) ml.loss ts: 255 (15.36) obj: 0
+21-Feb-2013 13:56:16: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:56:17: td: 1 err_tr: 154 (46.11) ml.loss tr: 285 (8.53) obj: 2.880171e+01
+21-Feb-2013 13:56:17: td: 1 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) err_ts: 106 (63.86) ml.loss ts: 255 (15.36) obj: 0

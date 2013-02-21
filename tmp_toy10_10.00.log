@@ -1,0 +1,1591 @@
+19-Feb-2013 17:38:57: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+19-Feb-2013 17:38:58: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) err_ts: 59 (35.54) ml.loss ts: 84 (5.06) obj: 4.825097e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 127 (38.02) ml.loss tr: 199 (5.96) err_ts: 71 (42.77) ml.loss ts: 101 (6.08) obj: 4.840491e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 127 (38.02) ml.loss tr: 199 (5.96) err_ts: 71 (42.77) ml.loss ts: 101 (6.08) obj: 4.840491e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) err_ts: 61 (36.75) ml.loss ts: 94 (5.66) obj: 4.849140e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) err_ts: 61 (36.75) ml.loss ts: 94 (5.66) obj: 4.849140e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) err_ts: 61 (36.75) ml.loss ts: 94 (5.66) obj: 4.849140e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) err_ts: 61 (36.75) ml.loss ts: 94 (5.66) obj: 4.849140e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) err_ts: 61 (36.75) ml.loss ts: 94 (5.66) obj: 4.849140e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) err_ts: 61 (36.75) ml.loss ts: 94 (5.66) obj: 4.849140e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 106 (31.74) ml.loss tr: 169 (5.06) err_ts: 55 (33.13) ml.loss ts: 79 (4.76) obj: 4.851945e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 103 (30.84) ml.loss tr: 172 (5.15) err_ts: 56 (33.73) ml.loss ts: 84 (5.06) obj: 4.853526e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 103 (30.84) ml.loss tr: 172 (5.15) err_ts: 56 (33.73) ml.loss ts: 84 (5.06) obj: 4.853526e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 120 (35.93) ml.loss tr: 217 (6.50) err_ts: 67 (40.36) ml.loss ts: 118 (7.11) obj: 4.875462e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) err_ts: 66 (39.76) ml.loss ts: 107 (6.45) obj: 4.876103e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) err_ts: 66 (39.76) ml.loss ts: 107 (6.45) obj: 4.876103e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) err_ts: 66 (39.76) ml.loss ts: 107 (6.45) obj: 4.876103e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 132 (39.52) ml.loss tr: 229 (6.86) err_ts: 74 (44.58) ml.loss ts: 123 (7.41) obj: 4.882003e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 132 (39.52) ml.loss tr: 229 (6.86) err_ts: 74 (44.58) ml.loss ts: 123 (7.41) obj: 4.882003e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 144 (43.11) ml.loss tr: 215 (6.44) err_ts: 70 (42.17) ml.loss ts: 97 (5.84) obj: 4.946527e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 144 (43.11) ml.loss tr: 215 (6.44) err_ts: 70 (42.17) ml.loss ts: 97 (5.84) obj: 4.946527e+02
+19-Feb-2013 17:38:58: td: 1 err_tr: 141 (42.22) ml.loss tr: 208 (6.23) err_ts: 69 (41.57) ml.loss ts: 96 (5.78) obj: 4.947346e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 125 (37.43) ml.loss tr: 235 (7.04) err_ts: 67 (40.36) ml.loss ts: 117 (7.05) obj: 4.973791e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) err_ts: 66 (39.76) ml.loss ts: 116 (6.99) obj: 4.974293e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) err_ts: 66 (39.76) ml.loss ts: 116 (6.99) obj: 4.974293e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) err_ts: 66 (39.76) ml.loss ts: 116 (6.99) obj: 4.974293e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) err_ts: 66 (39.76) ml.loss ts: 116 (6.99) obj: 4.974293e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 125 (37.43) ml.loss tr: 235 (7.04) err_ts: 66 (39.76) ml.loss ts: 116 (6.99) obj: 4.974681e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) err_ts: 63 (37.95) ml.loss ts: 114 (6.87) obj: 4.975446e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) err_ts: 63 (37.95) ml.loss ts: 114 (6.87) obj: 4.975446e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) err_ts: 63 (37.95) ml.loss ts: 114 (6.87) obj: 4.975446e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) err_ts: 51 (30.72) ml.loss ts: 79 (4.76) obj: 5.038086e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) err_ts: 51 (30.72) ml.loss ts: 79 (4.76) obj: 5.038086e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) err_ts: 51 (30.72) ml.loss ts: 79 (4.76) obj: 5.038086e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) err_ts: 51 (30.72) ml.loss ts: 79 (4.76) obj: 5.038086e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) err_ts: 51 (30.72) ml.loss ts: 79 (4.76) obj: 5.038086e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 105 (31.44) ml.loss tr: 193 (5.78) err_ts: 59 (35.54) ml.loss ts: 95 (5.72) obj: 5.056960e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 110 (32.93) ml.loss tr: 181 (5.42) err_ts: 59 (35.54) ml.loss ts: 97 (5.84) obj: 5.062829e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 110 (32.93) ml.loss tr: 181 (5.42) err_ts: 59 (35.54) ml.loss ts: 97 (5.84) obj: 5.062829e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 106 (31.74) ml.loss tr: 224 (6.71) err_ts: 60 (36.14) ml.loss ts: 111 (6.69) obj: 5.070304e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 106 (31.74) ml.loss tr: 224 (6.71) err_ts: 60 (36.14) ml.loss ts: 111 (6.69) obj: 5.070304e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 104 (31.14) ml.loss tr: 197 (5.90) err_ts: 54 (32.53) ml.loss ts: 94 (5.66) obj: 5.081416e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 120 (35.93) ml.loss tr: 191 (5.72) err_ts: 56 (33.73) ml.loss ts: 80 (4.82) obj: 5.118935e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 122 (36.53) ml.loss tr: 174 (5.21) err_ts: 58 (34.94) ml.loss ts: 77 (4.64) obj: 5.124567e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 108 (32.34) ml.loss tr: 176 (5.27) err_ts: 49 (29.52) ml.loss ts: 77 (4.64) obj: 5.135762e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 137 (41.02) ml.loss tr: 297 (8.89) err_ts: 74 (44.58) ml.loss ts: 144 (8.67) obj: 5.296483e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 131 (39.22) ml.loss tr: 226 (6.77) err_ts: 67 (40.36) ml.loss ts: 109 (6.57) obj: 5.369081e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 119 (35.63) ml.loss tr: 161 (4.82) err_ts: 66 (39.76) ml.loss ts: 93 (5.60) obj: 5.386596e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 119 (35.63) ml.loss tr: 161 (4.82) err_ts: 66 (39.76) ml.loss ts: 93 (5.60) obj: 5.386596e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 110 (32.93) ml.loss tr: 163 (4.88) err_ts: 55 (33.13) ml.loss ts: 80 (4.82) obj: 5.417007e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 110 (32.93) ml.loss tr: 163 (4.88) err_ts: 55 (33.13) ml.loss ts: 80 (4.82) obj: 5.417007e+02
+19-Feb-2013 17:38:58: td: 2 err_tr: 114 (34.13) ml.loss tr: 158 (4.73) err_ts: 61 (36.75) ml.loss ts: 84 (5.06) obj: 5.425646e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 114 (34.13) ml.loss tr: 158 (4.73) err_ts: 61 (36.75) ml.loss ts: 84 (5.06) obj: 5.425646e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) err_ts: 74 (44.58) ml.loss ts: 103 (6.20) obj: 5.439586e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) err_ts: 74 (44.58) ml.loss ts: 103 (6.20) obj: 5.439586e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 127 (38.02) ml.loss tr: 192 (5.75) err_ts: 58 (34.94) ml.loss ts: 83 (5.00) obj: 5.487011e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 127 (38.02) ml.loss tr: 192 (5.75) err_ts: 58 (34.94) ml.loss ts: 83 (5.00) obj: 5.487011e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 139 (41.62) ml.loss tr: 207 (6.20) err_ts: 67 (40.36) ml.loss ts: 92 (5.54) obj: 5.490138e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 135 (40.42) ml.loss tr: 209 (6.26) err_ts: 65 (39.16) ml.loss ts: 93 (5.60) obj: 5.495497e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 138 (41.32) ml.loss tr: 203 (6.08) err_ts: 61 (36.75) ml.loss ts: 88 (5.30) obj: 5.507221e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 111 (33.23) ml.loss tr: 175 (5.24) err_ts: 50 (30.12) ml.loss ts: 78 (4.70) obj: 5.523799e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 111 (33.23) ml.loss tr: 175 (5.24) err_ts: 50 (30.12) ml.loss ts: 78 (4.70) obj: 5.523799e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 115 (34.43) ml.loss tr: 186 (5.57) err_ts: 55 (33.13) ml.loss ts: 85 (5.12) obj: 5.524894e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 115 (34.43) ml.loss tr: 186 (5.57) err_ts: 55 (33.13) ml.loss ts: 85 (5.12) obj: 5.524894e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) err_ts: 61 (36.75) ml.loss ts: 93 (5.60) obj: 5.544227e+02
+19-Feb-2013 17:38:59: td: 2 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) err_ts: 61 (36.75) ml.loss ts: 93 (5.60) obj: 5.544227e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) err_ts: 61 (36.75) ml.loss ts: 93 (5.60) obj: 5.544227e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) err_ts: 72 (43.37) ml.loss ts: 103 (6.20) obj: 5.583069e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) err_ts: 72 (43.37) ml.loss ts: 103 (6.20) obj: 5.583069e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) err_ts: 72 (43.37) ml.loss ts: 103 (6.20) obj: 5.583069e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 123 (36.83) ml.loss tr: 218 (6.53) err_ts: 65 (39.16) ml.loss ts: 103 (6.20) obj: 5.588632e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 112 (33.53) ml.loss tr: 188 (5.63) err_ts: 54 (32.53) ml.loss ts: 89 (5.36) obj: 5.627687e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 138 (41.32) ml.loss tr: 229 (6.86) err_ts: 70 (42.17) ml.loss ts: 106 (6.39) obj: 5.679909e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) err_ts: 59 (35.54) ml.loss ts: 90 (5.42) obj: 5.693819e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) err_ts: 59 (35.54) ml.loss ts: 90 (5.42) obj: 5.693819e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) err_ts: 59 (35.54) ml.loss ts: 90 (5.42) obj: 5.693819e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) err_ts: 59 (35.54) ml.loss ts: 90 (5.42) obj: 5.693819e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) err_ts: 59 (35.54) ml.loss ts: 90 (5.42) obj: 5.693819e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) err_ts: 66 (39.76) ml.loss ts: 82 (4.94) obj: 5.716313e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) err_ts: 66 (39.76) ml.loss ts: 82 (4.94) obj: 5.716313e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) err_ts: 66 (39.76) ml.loss ts: 82 (4.94) obj: 5.716313e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 127 (38.02) ml.loss tr: 196 (5.87) err_ts: 70 (42.17) ml.loss ts: 89 (5.36) obj: 5.718927e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 133 (39.82) ml.loss tr: 212 (6.35) err_ts: 70 (42.17) ml.loss ts: 105 (6.33) obj: 5.778316e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 133 (39.82) ml.loss tr: 212 (6.35) err_ts: 70 (42.17) ml.loss ts: 105 (6.33) obj: 5.778316e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 125 (37.43) ml.loss tr: 198 (5.93) err_ts: 65 (39.16) ml.loss ts: 99 (5.96) obj: 5.779635e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 147 (44.01) ml.loss tr: 249 (7.46) err_ts: 76 (45.78) ml.loss ts: 126 (7.59) obj: 5.817973e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 129 (38.62) ml.loss tr: 194 (5.81) err_ts: 67 (40.36) ml.loss ts: 98 (5.90) obj: 5.843786e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 176 (52.69) ml.loss tr: 265 (7.93) err_ts: 82 (49.40) ml.loss ts: 120 (7.23) obj: 5.939534e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 177 (52.99) ml.loss tr: 269 (8.05) err_ts: 82 (49.40) ml.loss ts: 121 (7.29) obj: 5.939621e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 170 (50.90) ml.loss tr: 241 (7.22) err_ts: 81 (48.80) ml.loss ts: 118 (7.11) obj: 6.013599e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 152 (45.51) ml.loss tr: 254 (7.60) err_ts: 78 (46.99) ml.loss ts: 133 (8.01) obj: 6.101236e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 152 (45.51) ml.loss tr: 254 (7.60) err_ts: 78 (46.99) ml.loss ts: 133 (8.01) obj: 6.101236e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) err_ts: 71 (42.77) ml.loss ts: 94 (5.66) obj: 6.194647e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) err_ts: 71 (42.77) ml.loss ts: 94 (5.66) obj: 6.194647e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) err_ts: 71 (42.77) ml.loss ts: 94 (5.66) obj: 6.194647e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) err_ts: 71 (42.77) ml.loss ts: 94 (5.66) obj: 6.194647e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) err_ts: 71 (42.77) ml.loss ts: 94 (5.66) obj: 6.194647e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 148 (44.31) ml.loss tr: 223 (6.68) err_ts: 67 (40.36) ml.loss ts: 97 (5.84) obj: 6.201171e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 147 (44.01) ml.loss tr: 222 (6.65) err_ts: 67 (40.36) ml.loss ts: 97 (5.84) obj: 6.201249e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 144 (43.11) ml.loss tr: 218 (6.53) err_ts: 69 (41.57) ml.loss ts: 97 (5.84) obj: 6.202109e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 140 (41.92) ml.loss tr: 212 (6.35) err_ts: 67 (40.36) ml.loss ts: 92 (5.54) obj: 6.202542e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 140 (41.92) ml.loss tr: 212 (6.35) err_ts: 67 (40.36) ml.loss ts: 92 (5.54) obj: 6.202542e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 147 (44.01) ml.loss tr: 212 (6.35) err_ts: 72 (43.37) ml.loss ts: 95 (5.72) obj: 6.204132e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 157 (47.01) ml.loss tr: 239 (7.16) err_ts: 73 (43.98) ml.loss ts: 106 (6.39) obj: 6.221977e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 134 (40.12) ml.loss tr: 205 (6.14) err_ts: 62 (37.35) ml.loss ts: 91 (5.48) obj: 6.232351e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 151 (45.21) ml.loss tr: 223 (6.68) err_ts: 71 (42.77) ml.loss ts: 101 (6.08) obj: 6.234190e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 158 (47.31) ml.loss tr: 234 (7.01) err_ts: 74 (44.58) ml.loss ts: 108 (6.51) obj: 6.234740e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 158 (47.31) ml.loss tr: 234 (7.01) err_ts: 74 (44.58) ml.loss ts: 108 (6.51) obj: 6.234740e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 139 (41.62) ml.loss tr: 214 (6.41) err_ts: 63 (37.95) ml.loss ts: 96 (5.78) obj: 6.238481e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 162 (48.50) ml.loss tr: 239 (7.16) err_ts: 77 (46.39) ml.loss ts: 112 (6.75) obj: 6.242086e+02
+19-Feb-2013 17:38:59: td: 3 err_tr: 135 (40.42) ml.loss tr: 210 (6.29) err_ts: 61 (36.75) ml.loss ts: 94 (5.66) obj: 6.251644e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 123 (36.83) ml.loss tr: 194 (5.81) err_ts: 55 (33.13) ml.loss ts: 86 (5.18) obj: 6.258862e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 154 (46.11) ml.loss tr: 231 (6.92) err_ts: 70 (42.17) ml.loss ts: 105 (6.33) obj: 6.285520e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 138 (41.32) ml.loss tr: 209 (6.26) err_ts: 65 (39.16) ml.loss ts: 96 (5.78) obj: 6.293457e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 138 (41.32) ml.loss tr: 209 (6.26) err_ts: 65 (39.16) ml.loss ts: 96 (5.78) obj: 6.293457e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 108 (32.34) ml.loss tr: 177 (5.30) err_ts: 55 (33.13) ml.loss ts: 83 (5.00) obj: 6.300358e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 134 (40.12) ml.loss tr: 216 (6.47) err_ts: 64 (38.55) ml.loss ts: 100 (6.02) obj: 6.303704e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 134 (40.12) ml.loss tr: 216 (6.47) err_ts: 64 (38.55) ml.loss ts: 100 (6.02) obj: 6.303704e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) err_ts: 63 (37.95) ml.loss ts: 104 (6.27) obj: 6.328043e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) err_ts: 63 (37.95) ml.loss ts: 104 (6.27) obj: 6.328043e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) err_ts: 66 (39.76) ml.loss ts: 105 (6.33) obj: 6.328174e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) err_ts: 66 (39.76) ml.loss ts: 101 (6.08) obj: 6.331840e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) err_ts: 66 (39.76) ml.loss ts: 101 (6.08) obj: 6.331840e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) err_ts: 67 (40.36) ml.loss ts: 102 (6.14) obj: 6.332379e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 114 (34.13) ml.loss tr: 189 (5.66) err_ts: 60 (36.14) ml.loss ts: 102 (6.14) obj: 6.339782e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 114 (34.13) ml.loss tr: 189 (5.66) err_ts: 60 (36.14) ml.loss ts: 102 (6.14) obj: 6.339782e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 119 (35.63) ml.loss tr: 183 (5.48) err_ts: 65 (39.16) ml.loss ts: 100 (6.02) obj: 6.345789e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 144 (43.11) ml.loss tr: 253 (7.57) err_ts: 73 (43.98) ml.loss ts: 124 (7.47) obj: 6.389870e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 144 (43.11) ml.loss tr: 253 (7.57) err_ts: 73 (43.98) ml.loss ts: 124 (7.47) obj: 6.389870e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) err_ts: 76 (45.78) ml.loss ts: 112 (6.75) obj: 6.403964e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) err_ts: 76 (45.78) ml.loss ts: 112 (6.75) obj: 6.403964e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) err_ts: 76 (45.78) ml.loss ts: 112 (6.75) obj: 6.403964e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 154 (46.11) ml.loss tr: 280 (8.38) err_ts: 86 (51.81) ml.loss ts: 150 (9.04) obj: 6.460355e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 166 (49.70) ml.loss tr: 285 (8.53) err_ts: 85 (51.20) ml.loss ts: 142 (8.55) obj: 6.474675e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 161 (48.20) ml.loss tr: 251 (7.51) err_ts: 81 (48.80) ml.loss ts: 119 (7.17) obj: 6.505669e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 161 (48.20) ml.loss tr: 251 (7.51) err_ts: 81 (48.80) ml.loss ts: 119 (7.17) obj: 6.505669e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 159 (47.60) ml.loss tr: 225 (6.74) err_ts: 78 (46.99) ml.loss ts: 117 (7.05) obj: 6.527997e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 156 (46.71) ml.loss tr: 245 (7.34) err_ts: 85 (51.20) ml.loss ts: 130 (7.83) obj: 6.580207e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 150 (44.91) ml.loss tr: 215 (6.44) err_ts: 79 (47.59) ml.loss ts: 116 (6.99) obj: 6.583279e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 162 (48.50) ml.loss tr: 231 (6.92) err_ts: 78 (46.99) ml.loss ts: 117 (7.05) obj: 6.604819e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 158 (47.31) ml.loss tr: 237 (7.10) err_ts: 78 (46.99) ml.loss ts: 120 (7.23) obj: 6.633152e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 158 (47.31) ml.loss tr: 237 (7.10) err_ts: 78 (46.99) ml.loss ts: 120 (7.23) obj: 6.633152e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 156 (46.71) ml.loss tr: 258 (7.72) err_ts: 80 (48.19) ml.loss ts: 131 (7.89) obj: 6.658361e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 147 (44.01) ml.loss tr: 245 (7.34) err_ts: 76 (45.78) ml.loss ts: 122 (7.35) obj: 6.659067e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 147 (44.01) ml.loss tr: 245 (7.34) err_ts: 76 (45.78) ml.loss ts: 122 (7.35) obj: 6.659067e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 156 (46.71) ml.loss tr: 458 (13.71) err_ts: 83 (50.00) ml.loss ts: 232 (13.98) obj: 6.733362e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) err_ts: 80 (48.19) ml.loss ts: 173 (10.42) obj: 6.751010e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) err_ts: 80 (48.19) ml.loss ts: 173 (10.42) obj: 6.751010e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) err_ts: 80 (48.19) ml.loss ts: 173 (10.42) obj: 6.751010e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) err_ts: 80 (48.19) ml.loss ts: 173 (10.42) obj: 6.751010e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 142 (42.51) ml.loss tr: 235 (7.04) err_ts: 72 (43.37) ml.loss ts: 120 (7.23) obj: 6.764805e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 146 (43.71) ml.loss tr: 240 (7.19) err_ts: 74 (44.58) ml.loss ts: 124 (7.47) obj: 6.765560e+02
+19-Feb-2013 17:38:59: td: 4 err_tr: 148 (44.31) ml.loss tr: 242 (7.25) err_ts: 72 (43.37) ml.loss ts: 121 (7.29) obj: 6.772184e+02
+19-Feb-2013 17:38:59: td: 5 err_tr: 130 (38.92) ml.loss tr: 216 (6.47) err_ts: 65 (39.16) ml.loss ts: 103 (6.20) obj: 6.788143e+02
+19-Feb-2013 17:38:59: td: 5 err_tr: 167 (50.00) ml.loss tr: 233 (6.98) err_ts: 76 (45.78) ml.loss ts: 113 (6.81) obj: 6.824806e+02
+19-Feb-2013 17:38:59: td: 5 err_tr: 140 (41.92) ml.loss tr: 242 (7.25) err_ts: 74 (44.58) ml.loss ts: 120 (7.23) obj: 6.927755e+02
+19-Feb-2013 17:38:59: td: 5 err_tr: 119 (35.63) ml.loss tr: 175 (5.24) err_ts: 70 (42.17) ml.loss ts: 102 (6.14) obj: 6.953901e+02
+19-Feb-2013 17:38:59: td: 5 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) err_ts: 63 (37.95) ml.loss ts: 84 (5.06) obj: 6.961558e+02
+19-Feb-2013 17:38:59: td: 5 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) err_ts: 63 (37.95) ml.loss ts: 84 (5.06) obj: 6.961558e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) err_ts: 63 (37.95) ml.loss ts: 83 (5.00) obj: 6.961558e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 120 (35.93) ml.loss tr: 179 (5.36) err_ts: 57 (34.34) ml.loss ts: 78 (4.70) obj: 6.992491e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 110 (32.93) ml.loss tr: 170 (5.09) err_ts: 55 (33.13) ml.loss ts: 80 (4.82) obj: 6.998877e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 110 (32.93) ml.loss tr: 170 (5.09) err_ts: 55 (33.13) ml.loss ts: 80 (4.82) obj: 6.998877e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 111 (33.23) ml.loss tr: 169 (5.06) err_ts: 57 (34.34) ml.loss ts: 83 (5.00) obj: 6.999899e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 7.022797e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 7.022797e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 7.022797e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 100 (29.94) ml.loss tr: 166 (4.97) err_ts: 53 (31.93) ml.loss ts: 77 (4.64) obj: 7.048548e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 111 (33.23) ml.loss tr: 192 (5.75) err_ts: 48 (28.92) ml.loss ts: 85 (5.12) obj: 7.063561e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) err_ts: 68 (40.96) ml.loss ts: 123 (7.41) obj: 7.139022e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) err_ts: 68 (40.96) ml.loss ts: 123 (7.41) obj: 7.139022e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) err_ts: 68 (40.96) ml.loss ts: 123 (7.41) obj: 7.139022e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) err_ts: 68 (40.96) ml.loss ts: 123 (7.41) obj: 7.139022e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 123 (36.83) ml.loss tr: 178 (5.33) err_ts: 62 (37.35) ml.loss ts: 85 (5.12) obj: 7.186429e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 97 (29.04) ml.loss tr: 150 (4.49) err_ts: 42 (25.30) ml.loss ts: 59 (3.55) obj: 7.198432e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 107 (32.04) ml.loss tr: 165 (4.94) err_ts: 46 (27.71) ml.loss ts: 66 (3.98) obj: 7.199143e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 107 (32.04) ml.loss tr: 165 (4.94) err_ts: 46 (27.71) ml.loss ts: 66 (3.98) obj: 7.199143e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) err_ts: 63 (37.95) ml.loss ts: 79 (4.76) obj: 7.213926e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) err_ts: 63 (37.95) ml.loss ts: 79 (4.76) obj: 7.213926e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) err_ts: 63 (37.95) ml.loss ts: 79 (4.76) obj: 7.213926e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 136 (40.72) ml.loss tr: 193 (5.78) err_ts: 73 (43.98) ml.loss ts: 101 (6.08) obj: 7.233548e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 134 (40.12) ml.loss tr: 177 (5.30) err_ts: 74 (44.58) ml.loss ts: 98 (5.90) obj: 7.257280e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 134 (40.12) ml.loss tr: 177 (5.30) err_ts: 74 (44.58) ml.loss ts: 98 (5.90) obj: 7.257280e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 131 (39.22) ml.loss tr: 160 (4.79) err_ts: 74 (44.58) ml.loss ts: 98 (5.90) obj: 7.258684e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 120 (35.93) ml.loss tr: 148 (4.43) err_ts: 68 (40.96) ml.loss ts: 91 (5.48) obj: 7.264746e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) err_ts: 60 (36.14) ml.loss ts: 75 (4.52) obj: 7.268407e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) err_ts: 60 (36.14) ml.loss ts: 75 (4.52) obj: 7.268407e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) err_ts: 60 (36.14) ml.loss ts: 75 (4.52) obj: 7.268407e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) err_ts: 58 (34.94) ml.loss ts: 73 (4.40) obj: 7.270285e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) err_ts: 58 (34.94) ml.loss ts: 73 (4.40) obj: 7.270285e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) err_ts: 58 (34.94) ml.loss ts: 73 (4.40) obj: 7.270285e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 115 (34.43) ml.loss tr: 147 (4.40) err_ts: 63 (37.95) ml.loss ts: 82 (4.94) obj: 7.277781e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 115 (34.43) ml.loss tr: 147 (4.40) err_ts: 63 (37.95) ml.loss ts: 82 (4.94) obj: 7.277781e+02
+19-Feb-2013 17:39:00: td: 5 err_tr: 100 (29.94) ml.loss tr: 132 (3.95) err_ts: 51 (30.72) ml.loss ts: 64 (3.86) obj: 7.286435e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 120 (35.93) ml.loss tr: 189 (5.66) err_ts: 67 (40.36) ml.loss ts: 97 (5.84) obj: 7.325690e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 120 (35.93) ml.loss tr: 189 (5.66) err_ts: 67 (40.36) ml.loss ts: 97 (5.84) obj: 7.325690e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 121 (36.23) ml.loss tr: 172 (5.15) err_ts: 71 (42.77) ml.loss ts: 99 (5.96) obj: 7.345924e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 110 (32.93) ml.loss tr: 149 (4.46) err_ts: 63 (37.95) ml.loss ts: 81 (4.88) obj: 7.350785e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) err_ts: 75 (45.18) ml.loss ts: 105 (6.33) obj: 7.371729e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) err_ts: 75 (45.18) ml.loss ts: 105 (6.33) obj: 7.371729e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) err_ts: 75 (45.18) ml.loss ts: 105 (6.33) obj: 7.371729e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) err_ts: 75 (45.18) ml.loss ts: 105 (6.33) obj: 7.371729e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) err_ts: 75 (45.18) ml.loss ts: 105 (6.33) obj: 7.371729e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) err_ts: 75 (45.18) ml.loss ts: 105 (6.33) obj: 7.371729e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 141 (42.22) ml.loss tr: 194 (5.81) err_ts: 78 (46.99) ml.loss ts: 104 (6.27) obj: 7.373299e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) err_ts: 55 (33.13) ml.loss ts: 73 (4.40) obj: 7.398827e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) err_ts: 66 (39.76) ml.loss ts: 86 (5.18) obj: 7.401333e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) err_ts: 66 (39.76) ml.loss ts: 86 (5.18) obj: 7.401333e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) err_ts: 66 (39.76) ml.loss ts: 86 (5.18) obj: 7.401333e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) err_ts: 66 (39.76) ml.loss ts: 86 (5.18) obj: 7.401333e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 7.432482e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 7.432482e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 7.432482e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) err_ts: 65 (39.16) ml.loss ts: 87 (5.24) obj: 7.457511e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) err_ts: 65 (39.16) ml.loss ts: 87 (5.24) obj: 7.457511e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) err_ts: 65 (39.16) ml.loss ts: 87 (5.24) obj: 7.457511e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 112 (33.53) ml.loss tr: 150 (4.49) err_ts: 62 (37.35) ml.loss ts: 81 (4.88) obj: 7.458627e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 112 (33.53) ml.loss tr: 150 (4.49) err_ts: 62 (37.35) ml.loss ts: 81 (4.88) obj: 7.458627e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 118 (35.33) ml.loss tr: 153 (4.58) err_ts: 57 (34.34) ml.loss ts: 75 (4.52) obj: 7.461943e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 119 (35.63) ml.loss tr: 157 (4.70) err_ts: 63 (37.95) ml.loss ts: 85 (5.12) obj: 7.462218e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 103 (30.84) ml.loss tr: 134 (4.01) err_ts: 51 (30.72) ml.loss ts: 68 (4.10) obj: 7.463976e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 106 (31.74) ml.loss tr: 152 (4.55) err_ts: 58 (34.94) ml.loss ts: 82 (4.94) obj: 7.482227e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 109 (32.63) ml.loss tr: 146 (4.37) err_ts: 55 (33.13) ml.loss ts: 71 (4.28) obj: 7.486816e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 114 (34.13) ml.loss tr: 155 (4.64) err_ts: 65 (39.16) ml.loss ts: 84 (5.06) obj: 7.517202e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 114 (34.13) ml.loss tr: 155 (4.64) err_ts: 65 (39.16) ml.loss ts: 84 (5.06) obj: 7.517202e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 106 (31.74) ml.loss tr: 145 (4.34) err_ts: 55 (33.13) ml.loss ts: 72 (4.34) obj: 7.521956e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 115 (34.43) ml.loss tr: 166 (4.97) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 7.526385e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 101 (30.24) ml.loss tr: 157 (4.70) err_ts: 49 (29.52) ml.loss ts: 74 (4.46) obj: 7.565202e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 111 (33.23) ml.loss tr: 170 (5.09) err_ts: 54 (32.53) ml.loss ts: 78 (4.70) obj: 7.572497e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 122 (36.53) ml.loss tr: 168 (5.03) err_ts: 57 (34.34) ml.loss ts: 79 (4.76) obj: 7.631602e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 121 (36.23) ml.loss tr: 168 (5.03) err_ts: 57 (34.34) ml.loss ts: 79 (4.76) obj: 7.631616e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) err_ts: 69 (41.57) ml.loss ts: 88 (5.30) obj: 7.649429e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) err_ts: 69 (41.57) ml.loss ts: 88 (5.30) obj: 7.649429e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 140 (41.92) ml.loss tr: 269 (8.05) err_ts: 74 (44.58) ml.loss ts: 136 (8.19) obj: 7.665394e+02
+19-Feb-2013 17:39:00: td: 6 err_tr: 140 (41.92) ml.loss tr: 269 (8.05) err_ts: 74 (44.58) ml.loss ts: 136 (8.19) obj: 7.665394e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 140 (41.92) ml.loss tr: 269 (8.05) err_ts: 74 (44.58) ml.loss ts: 136 (8.19) obj: 7.665394e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 140 (41.92) ml.loss tr: 269 (8.05) err_ts: 74 (44.58) ml.loss ts: 136 (8.19) obj: 7.665394e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 122 (36.53) ml.loss tr: 186 (5.57) err_ts: 63 (37.95) ml.loss ts: 98 (5.90) obj: 7.701978e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 122 (36.53) ml.loss tr: 186 (5.57) err_ts: 63 (37.95) ml.loss ts: 98 (5.90) obj: 7.701978e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 122 (36.53) ml.loss tr: 178 (5.33) err_ts: 66 (39.76) ml.loss ts: 99 (5.96) obj: 7.705311e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 122 (36.53) ml.loss tr: 178 (5.33) err_ts: 66 (39.76) ml.loss ts: 99 (5.96) obj: 7.705311e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 148 (44.31) ml.loss tr: 214 (6.41) err_ts: 66 (39.76) ml.loss ts: 90 (5.42) obj: 7.758211e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 147 (44.01) ml.loss tr: 225 (6.74) err_ts: 65 (39.16) ml.loss ts: 96 (5.78) obj: 7.765324e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 143 (42.81) ml.loss tr: 217 (6.50) err_ts: 65 (39.16) ml.loss ts: 96 (5.78) obj: 7.767633e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 141 (42.22) ml.loss tr: 217 (6.50) err_ts: 65 (39.16) ml.loss ts: 97 (5.84) obj: 7.768016e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 121 (36.23) ml.loss tr: 187 (5.60) err_ts: 58 (34.94) ml.loss ts: 81 (4.88) obj: 7.807712e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 115 (34.43) ml.loss tr: 172 (5.15) err_ts: 50 (30.12) ml.loss ts: 70 (4.22) obj: 7.816150e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 105 (31.44) ml.loss tr: 152 (4.55) err_ts: 59 (35.54) ml.loss ts: 82 (4.94) obj: 7.847236e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 105 (31.44) ml.loss tr: 152 (4.55) err_ts: 59 (35.54) ml.loss ts: 82 (4.94) obj: 7.847236e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 105 (31.44) ml.loss tr: 152 (4.55) err_ts: 59 (35.54) ml.loss ts: 82 (4.94) obj: 7.847236e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 113 (33.83) ml.loss tr: 156 (4.67) err_ts: 56 (33.73) ml.loss ts: 77 (4.64) obj: 7.848360e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 115 (34.43) ml.loss tr: 165 (4.94) err_ts: 59 (35.54) ml.loss ts: 83 (5.00) obj: 7.863884e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 115 (34.43) ml.loss tr: 165 (4.94) err_ts: 59 (35.54) ml.loss ts: 83 (5.00) obj: 7.863884e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 113 (33.83) ml.loss tr: 180 (5.39) err_ts: 50 (30.12) ml.loss ts: 82 (4.94) obj: 7.891854e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 113 (33.83) ml.loss tr: 180 (5.39) err_ts: 50 (30.12) ml.loss ts: 82 (4.94) obj: 7.891854e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 113 (33.83) ml.loss tr: 180 (5.39) err_ts: 50 (30.12) ml.loss ts: 82 (4.94) obj: 7.891854e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 115 (34.43) ml.loss tr: 180 (5.39) err_ts: 47 (28.31) ml.loss ts: 78 (4.70) obj: 7.898547e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 115 (34.43) ml.loss tr: 180 (5.39) err_ts: 47 (28.31) ml.loss ts: 78 (4.70) obj: 7.898547e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 114 (34.13) ml.loss tr: 176 (5.27) err_ts: 53 (31.93) ml.loss ts: 83 (5.00) obj: 7.899224e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 110 (32.93) ml.loss tr: 170 (5.09) err_ts: 55 (33.13) ml.loss ts: 84 (5.06) obj: 7.899334e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 138 (41.32) ml.loss tr: 175 (5.24) err_ts: 72 (43.37) ml.loss ts: 102 (6.14) obj: 7.937198e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 138 (41.32) ml.loss tr: 175 (5.24) err_ts: 72 (43.37) ml.loss ts: 102 (6.14) obj: 7.937198e+02
+19-Feb-2013 17:39:00: td: 7 err_tr: 138 (41.32) ml.loss tr: 175 (5.24) err_ts: 72 (43.37) ml.loss ts: 102 (6.14) obj: 7.937198e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 129 (38.62) ml.loss tr: 172 (5.15) err_ts: 63 (37.95) ml.loss ts: 80 (4.82) obj: 7.952711e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 125 (37.43) ml.loss tr: 170 (5.09) err_ts: 60 (36.14) ml.loss ts: 77 (4.64) obj: 7.957150e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 125 (37.43) ml.loss tr: 170 (5.09) err_ts: 60 (36.14) ml.loss ts: 77 (4.64) obj: 7.957150e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 130 (38.92) ml.loss tr: 168 (5.03) err_ts: 64 (38.55) ml.loss ts: 81 (4.88) obj: 7.957728e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 143 (42.81) ml.loss tr: 226 (6.77) err_ts: 76 (45.78) ml.loss ts: 112 (6.75) obj: 8.004453e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 143 (42.81) ml.loss tr: 226 (6.77) err_ts: 76 (45.78) ml.loss ts: 112 (6.75) obj: 8.004453e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 144 (43.11) ml.loss tr: 228 (6.83) err_ts: 76 (45.78) ml.loss ts: 112 (6.75) obj: 8.004475e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 144 (43.11) ml.loss tr: 228 (6.83) err_ts: 76 (45.78) ml.loss ts: 112 (6.75) obj: 8.004475e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 137 (41.02) ml.loss tr: 212 (6.35) err_ts: 68 (40.96) ml.loss ts: 103 (6.20) obj: 8.035542e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 137 (41.02) ml.loss tr: 212 (6.35) err_ts: 65 (39.16) ml.loss ts: 102 (6.14) obj: 8.036104e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 120 (35.93) ml.loss tr: 189 (5.66) err_ts: 57 (34.34) ml.loss ts: 83 (5.00) obj: 8.041358e+02
+19-Feb-2013 17:39:01: td: 7 err_tr: 103 (30.84) ml.loss tr: 161 (4.82) err_ts: 48 (28.92) ml.loss ts: 69 (4.16) obj: 8.047254e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 103 (30.84) ml.loss tr: 161 (4.82) err_ts: 48 (28.92) ml.loss ts: 69 (4.16) obj: 8.047254e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) err_ts: 48 (28.92) ml.loss ts: 71 (4.28) obj: 8.048066e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) err_ts: 48 (28.92) ml.loss ts: 71 (4.28) obj: 8.048066e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) err_ts: 48 (28.92) ml.loss ts: 71 (4.28) obj: 8.048066e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) err_ts: 48 (28.92) ml.loss ts: 71 (4.28) obj: 8.048066e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 120 (35.93) ml.loss tr: 198 (5.93) err_ts: 62 (37.35) ml.loss ts: 97 (5.84) obj: 8.068110e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 116 (34.73) ml.loss tr: 183 (5.48) err_ts: 58 (34.94) ml.loss ts: 87 (5.24) obj: 8.072194e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 119 (35.63) ml.loss tr: 182 (5.45) err_ts: 61 (36.75) ml.loss ts: 88 (5.30) obj: 8.098156e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 118 (35.33) ml.loss tr: 180 (5.39) err_ts: 61 (36.75) ml.loss ts: 87 (5.24) obj: 8.098291e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 118 (35.33) ml.loss tr: 180 (5.39) err_ts: 61 (36.75) ml.loss ts: 87 (5.24) obj: 8.098291e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 118 (35.33) ml.loss tr: 180 (5.39) err_ts: 61 (36.75) ml.loss ts: 87 (5.24) obj: 8.098291e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 118 (35.33) ml.loss tr: 180 (5.39) err_ts: 61 (36.75) ml.loss ts: 87 (5.24) obj: 8.098291e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) err_ts: 51 (30.72) ml.loss ts: 76 (4.58) obj: 8.121926e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) err_ts: 51 (30.72) ml.loss ts: 76 (4.58) obj: 8.121926e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 99 (29.64) ml.loss tr: 159 (4.76) err_ts: 52 (31.33) ml.loss ts: 76 (4.58) obj: 8.122533e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 99 (29.64) ml.loss tr: 159 (4.76) err_ts: 52 (31.33) ml.loss ts: 76 (4.58) obj: 8.122533e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) err_ts: 54 (32.53) ml.loss ts: 77 (4.64) obj: 8.123109e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) err_ts: 54 (32.53) ml.loss ts: 77 (4.64) obj: 8.123109e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) err_ts: 54 (32.53) ml.loss ts: 77 (4.64) obj: 8.123109e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) err_ts: 54 (32.53) ml.loss ts: 77 (4.64) obj: 8.123109e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) err_ts: 54 (32.53) ml.loss ts: 77 (4.64) obj: 8.123109e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 134 (40.12) ml.loss tr: 208 (6.23) err_ts: 68 (40.96) ml.loss ts: 96 (5.78) obj: 8.134148e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 145 (43.41) ml.loss tr: 244 (7.31) err_ts: 74 (44.58) ml.loss ts: 115 (6.93) obj: 8.140706e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 139 (41.62) ml.loss tr: 234 (7.01) err_ts: 75 (45.18) ml.loss ts: 116 (6.99) obj: 8.150090e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 128 (38.32) ml.loss tr: 224 (6.71) err_ts: 61 (36.75) ml.loss ts: 101 (6.08) obj: 8.186243e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 129 (38.62) ml.loss tr: 212 (6.35) err_ts: 68 (40.96) ml.loss ts: 104 (6.27) obj: 8.203624e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 135 (40.42) ml.loss tr: 207 (6.20) err_ts: 69 (41.57) ml.loss ts: 100 (6.02) obj: 8.207773e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 140 (41.92) ml.loss tr: 201 (6.02) err_ts: 75 (45.18) ml.loss ts: 102 (6.14) obj: 8.297771e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 146 (43.71) ml.loss tr: 223 (6.68) err_ts: 78 (46.99) ml.loss ts: 113 (6.81) obj: 8.306672e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 126 (37.72) ml.loss tr: 174 (5.21) err_ts: 63 (37.95) ml.loss ts: 84 (5.06) obj: 8.317366e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 117 (35.03) ml.loss tr: 149 (4.46) err_ts: 65 (39.16) ml.loss ts: 77 (4.64) obj: 8.322607e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 101 (30.24) ml.loss tr: 136 (4.07) err_ts: 51 (30.72) ml.loss ts: 61 (3.67) obj: 8.325874e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 107 (32.04) ml.loss tr: 135 (4.04) err_ts: 54 (32.53) ml.loss ts: 79 (4.76) obj: 8.344483e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 107 (32.04) ml.loss tr: 135 (4.04) err_ts: 54 (32.53) ml.loss ts: 79 (4.76) obj: 8.344483e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 113 (33.83) ml.loss tr: 145 (4.34) err_ts: 51 (30.72) ml.loss ts: 65 (3.92) obj: 8.370754e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 113 (33.83) ml.loss tr: 145 (4.34) err_ts: 51 (30.72) ml.loss ts: 65 (3.92) obj: 8.370754e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 112 (33.53) ml.loss tr: 146 (4.37) err_ts: 52 (31.33) ml.loss ts: 66 (3.98) obj: 8.371267e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 119 (35.63) ml.loss tr: 145 (4.34) err_ts: 56 (33.73) ml.loss ts: 67 (4.04) obj: 8.383261e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 119 (35.63) ml.loss tr: 145 (4.34) err_ts: 56 (33.73) ml.loss ts: 67 (4.04) obj: 8.383261e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 119 (35.63) ml.loss tr: 145 (4.34) err_ts: 56 (33.73) ml.loss ts: 67 (4.04) obj: 8.383261e+02
+19-Feb-2013 17:39:01: td: 8 err_tr: 119 (35.63) ml.loss tr: 145 (4.34) err_ts: 56 (33.73) ml.loss ts: 67 (4.04) obj: 8.383261e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 129 (38.62) ml.loss tr: 162 (4.85) err_ts: 60 (36.14) ml.loss ts: 73 (4.40) obj: 8.383923e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 127 (38.02) ml.loss tr: 168 (5.03) err_ts: 60 (36.14) ml.loss ts: 90 (5.42) obj: 8.413015e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 130 (38.92) ml.loss tr: 176 (5.27) err_ts: 63 (37.95) ml.loss ts: 96 (5.78) obj: 8.415668e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 123 (36.83) ml.loss tr: 163 (4.88) err_ts: 58 (34.94) ml.loss ts: 74 (4.46) obj: 8.493805e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) err_ts: 57 (34.34) ml.loss ts: 76 (4.58) obj: 8.502216e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) err_ts: 57 (34.34) ml.loss ts: 76 (4.58) obj: 8.502216e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) err_ts: 57 (34.34) ml.loss ts: 76 (4.58) obj: 8.502216e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) err_ts: 57 (34.34) ml.loss ts: 76 (4.58) obj: 8.502216e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) err_ts: 57 (34.34) ml.loss ts: 76 (4.58) obj: 8.502216e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) err_ts: 57 (34.34) ml.loss ts: 76 (4.58) obj: 8.502216e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 123 (36.83) ml.loss tr: 151 (4.52) err_ts: 57 (34.34) ml.loss ts: 77 (4.64) obj: 8.503989e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 123 (36.83) ml.loss tr: 151 (4.52) err_ts: 57 (34.34) ml.loss ts: 77 (4.64) obj: 8.503989e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 123 (36.83) ml.loss tr: 151 (4.52) err_ts: 57 (34.34) ml.loss ts: 77 (4.64) obj: 8.503989e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 130 (38.92) ml.loss tr: 154 (4.61) err_ts: 66 (39.76) ml.loss ts: 87 (5.24) obj: 8.511544e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 129 (38.62) ml.loss tr: 153 (4.58) err_ts: 63 (37.95) ml.loss ts: 82 (4.94) obj: 8.511610e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 129 (38.62) ml.loss tr: 153 (4.58) err_ts: 63 (37.95) ml.loss ts: 82 (4.94) obj: 8.511610e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 118 (35.33) ml.loss tr: 164 (4.91) err_ts: 55 (33.13) ml.loss ts: 80 (4.82) obj: 8.526960e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 112 (33.53) ml.loss tr: 152 (4.55) err_ts: 50 (30.12) ml.loss ts: 69 (4.16) obj: 8.530867e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) err_ts: 57 (34.34) ml.loss ts: 82 (4.94) obj: 8.581000e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) err_ts: 57 (34.34) ml.loss ts: 82 (4.94) obj: 8.581000e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 132 (39.52) ml.loss tr: 201 (6.02) err_ts: 72 (43.37) ml.loss ts: 99 (5.96) obj: 8.595840e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 132 (39.52) ml.loss tr: 201 (6.02) err_ts: 72 (43.37) ml.loss ts: 99 (5.96) obj: 8.595840e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 8.604087e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 8.604087e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 8.604087e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 8.604087e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 8.604087e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) err_ts: 59 (35.54) ml.loss ts: 86 (5.18) obj: 8.604087e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 101 (30.24) ml.loss tr: 163 (4.88) err_ts: 56 (33.73) ml.loss ts: 82 (4.94) obj: 8.605262e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 104 (31.14) ml.loss tr: 154 (4.61) err_ts: 54 (32.53) ml.loss ts: 79 (4.76) obj: 8.606690e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 104 (31.14) ml.loss tr: 154 (4.61) err_ts: 54 (32.53) ml.loss ts: 79 (4.76) obj: 8.606690e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 115 (34.43) ml.loss tr: 186 (5.57) err_ts: 66 (39.76) ml.loss ts: 105 (6.33) obj: 8.620730e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 106 (31.74) ml.loss tr: 176 (5.27) err_ts: 62 (37.35) ml.loss ts: 98 (5.90) obj: 8.621738e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 106 (31.74) ml.loss tr: 176 (5.27) err_ts: 62 (37.35) ml.loss ts: 98 (5.90) obj: 8.621738e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 106 (31.74) ml.loss tr: 176 (5.27) err_ts: 62 (37.35) ml.loss ts: 98 (5.90) obj: 8.621738e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 116 (34.73) ml.loss tr: 189 (5.66) err_ts: 66 (39.76) ml.loss ts: 105 (6.33) obj: 8.625403e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 116 (34.73) ml.loss tr: 189 (5.66) err_ts: 66 (39.76) ml.loss ts: 105 (6.33) obj: 8.625403e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 126 (37.72) ml.loss tr: 172 (5.15) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 8.692597e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 126 (37.72) ml.loss tr: 172 (5.15) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 8.692597e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 123 (36.83) ml.loss tr: 168 (5.03) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 8.692949e+02
+19-Feb-2013 17:39:01: td: 9 err_tr: 103 (30.84) ml.loss tr: 196 (5.87) err_ts: 60 (36.14) ml.loss ts: 106 (6.39) obj: 8.728510e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) err_ts: 59 (35.54) ml.loss ts: 104 (6.27) obj: 8.729856e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) err_ts: 59 (35.54) ml.loss ts: 104 (6.27) obj: 8.729856e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) err_ts: 59 (35.54) ml.loss ts: 104 (6.27) obj: 8.729856e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) err_ts: 59 (35.54) ml.loss ts: 104 (6.27) obj: 8.729856e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) err_ts: 59 (35.54) ml.loss ts: 104 (6.27) obj: 8.729856e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) err_ts: 59 (35.54) ml.loss ts: 104 (6.27) obj: 8.729856e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) err_ts: 59 (35.54) ml.loss ts: 104 (6.27) obj: 8.729856e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) err_ts: 59 (35.54) ml.loss ts: 104 (6.27) obj: 8.729856e+02
+19-Feb-2013 17:39:01: td: 10 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) err_ts: 49 (29.52) ml.loss ts: 83 (5.00) obj: 8.771821e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) err_ts: 49 (29.52) ml.loss ts: 83 (5.00) obj: 8.771821e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) err_ts: 49 (29.52) ml.loss ts: 83 (5.00) obj: 8.771821e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) err_ts: 49 (29.52) ml.loss ts: 83 (5.00) obj: 8.771821e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) err_ts: 49 (29.52) ml.loss ts: 83 (5.00) obj: 8.771821e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 104 (31.14) ml.loss tr: 201 (6.02) err_ts: 55 (33.13) ml.loss ts: 94 (5.66) obj: 8.806676e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 105 (31.44) ml.loss tr: 204 (6.11) err_ts: 58 (34.94) ml.loss ts: 98 (5.90) obj: 8.810957e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 105 (31.44) ml.loss tr: 204 (6.11) err_ts: 58 (34.94) ml.loss ts: 98 (5.90) obj: 8.810957e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 109 (32.63) ml.loss tr: 205 (6.14) err_ts: 58 (34.94) ml.loss ts: 109 (6.57) obj: 8.838867e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 109 (32.63) ml.loss tr: 205 (6.14) err_ts: 58 (34.94) ml.loss ts: 109 (6.57) obj: 8.838867e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 104 (31.14) ml.loss tr: 179 (5.36) err_ts: 50 (30.12) ml.loss ts: 96 (5.78) obj: 8.845217e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 106 (31.74) ml.loss tr: 185 (5.54) err_ts: 52 (31.33) ml.loss ts: 81 (4.88) obj: 8.890069e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 97 (29.04) ml.loss tr: 171 (5.12) err_ts: 52 (31.33) ml.loss ts: 75 (4.52) obj: 8.899310e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 109 (32.63) ml.loss tr: 185 (5.54) err_ts: 53 (31.93) ml.loss ts: 80 (4.82) obj: 8.909011e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 134 (40.12) ml.loss tr: 212 (6.35) err_ts: 69 (41.57) ml.loss ts: 108 (6.51) obj: 9.027489e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 126 (37.72) ml.loss tr: 195 (5.84) err_ts: 67 (40.36) ml.loss ts: 99 (5.96) obj: 9.064521e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 102 (30.54) ml.loss tr: 164 (4.91) err_ts: 55 (33.13) ml.loss ts: 74 (4.46) obj: 9.083265e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 102 (30.54) ml.loss tr: 164 (4.91) err_ts: 55 (33.13) ml.loss ts: 74 (4.46) obj: 9.083265e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 105 (31.44) ml.loss tr: 171 (5.12) err_ts: 51 (30.72) ml.loss ts: 75 (4.52) obj: 9.099783e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 105 (31.44) ml.loss tr: 171 (5.12) err_ts: 51 (30.72) ml.loss ts: 75 (4.52) obj: 9.099783e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 103 (30.84) ml.loss tr: 164 (4.91) err_ts: 50 (30.12) ml.loss ts: 73 (4.40) obj: 9.105187e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 103 (30.84) ml.loss tr: 164 (4.91) err_ts: 50 (30.12) ml.loss ts: 73 (4.40) obj: 9.105187e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 111 (33.23) ml.loss tr: 159 (4.76) err_ts: 61 (36.75) ml.loss ts: 78 (4.70) obj: 9.123950e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 111 (33.23) ml.loss tr: 159 (4.76) err_ts: 61 (36.75) ml.loss ts: 78 (4.70) obj: 9.123950e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 120 (35.93) ml.loss tr: 186 (5.57) err_ts: 57 (34.34) ml.loss ts: 80 (4.82) obj: 9.172805e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 120 (35.93) ml.loss tr: 186 (5.57) err_ts: 57 (34.34) ml.loss ts: 80 (4.82) obj: 9.172805e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 132 (39.52) ml.loss tr: 198 (5.93) err_ts: 62 (37.35) ml.loss ts: 89 (5.36) obj: 9.176845e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 131 (39.22) ml.loss tr: 206 (6.17) err_ts: 63 (37.95) ml.loss ts: 93 (5.60) obj: 9.180878e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 145 (43.41) ml.loss tr: 205 (6.14) err_ts: 66 (39.76) ml.loss ts: 88 (5.30) obj: 9.201659e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 123 (36.83) ml.loss tr: 186 (5.57) err_ts: 59 (35.54) ml.loss ts: 80 (4.82) obj: 9.215336e+02
+19-Feb-2013 17:39:02: td: 10 err_tr: 123 (36.83) ml.loss tr: 186 (5.57) err_ts: 59 (35.54) ml.loss ts: 80 (4.82) obj: 9.215336e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 127 (38.02) ml.loss tr: 186 (5.57) err_ts: 61 (36.75) ml.loss ts: 84 (5.06) obj: 9.216753e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 127 (38.02) ml.loss tr: 186 (5.57) err_ts: 61 (36.75) ml.loss ts: 84 (5.06) obj: 9.216753e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 131 (39.22) ml.loss tr: 196 (5.87) err_ts: 59 (35.54) ml.loss ts: 81 (4.88) obj: 9.226983e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 131 (39.22) ml.loss tr: 196 (5.87) err_ts: 59 (35.54) ml.loss ts: 81 (4.88) obj: 9.226983e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 131 (39.22) ml.loss tr: 196 (5.87) err_ts: 59 (35.54) ml.loss ts: 81 (4.88) obj: 9.226983e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 126 (37.72) ml.loss tr: 186 (5.57) err_ts: 69 (41.57) ml.loss ts: 113 (6.81) obj: 9.254902e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 126 (37.72) ml.loss tr: 186 (5.57) err_ts: 69 (41.57) ml.loss ts: 113 (6.81) obj: 9.254902e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 126 (37.72) ml.loss tr: 186 (5.57) err_ts: 69 (41.57) ml.loss ts: 113 (6.81) obj: 9.254902e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 122 (36.53) ml.loss tr: 159 (4.76) err_ts: 59 (35.54) ml.loss ts: 72 (4.34) obj: 9.260492e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 168 (50.30) ml.loss tr: 227 (6.80) err_ts: 82 (49.40) ml.loss ts: 103 (6.20) obj: 9.321928e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 122 (36.53) ml.loss tr: 161 (4.82) err_ts: 65 (39.16) ml.loss ts: 77 (4.64) obj: 9.404706e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) err_ts: 65 (39.16) ml.loss ts: 77 (4.64) obj: 9.405321e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) err_ts: 65 (39.16) ml.loss ts: 77 (4.64) obj: 9.405321e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) err_ts: 65 (39.16) ml.loss ts: 77 (4.64) obj: 9.405321e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) err_ts: 65 (39.16) ml.loss ts: 77 (4.64) obj: 9.405321e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) err_ts: 65 (39.16) ml.loss ts: 77 (4.64) obj: 9.405321e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 130 (38.92) ml.loss tr: 214 (6.41) err_ts: 71 (42.77) ml.loss ts: 110 (6.63) obj: 9.446353e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 130 (38.92) ml.loss tr: 214 (6.41) err_ts: 71 (42.77) ml.loss ts: 110 (6.63) obj: 9.446353e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 130 (38.92) ml.loss tr: 214 (6.41) err_ts: 71 (42.77) ml.loss ts: 110 (6.63) obj: 9.446353e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 124 (37.13) ml.loss tr: 167 (5.00) err_ts: 68 (40.96) ml.loss ts: 93 (5.60) obj: 9.451661e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 113 (33.83) ml.loss tr: 181 (5.42) err_ts: 62 (37.35) ml.loss ts: 96 (5.78) obj: 9.470698e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 113 (33.83) ml.loss tr: 181 (5.42) err_ts: 62 (37.35) ml.loss ts: 96 (5.78) obj: 9.470698e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 113 (33.83) ml.loss tr: 181 (5.42) err_ts: 62 (37.35) ml.loss ts: 96 (5.78) obj: 9.470698e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 132 (39.52) ml.loss tr: 243 (7.28) err_ts: 73 (43.98) ml.loss ts: 130 (7.83) obj: 9.505968e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 125 (37.43) ml.loss tr: 196 (5.87) err_ts: 69 (41.57) ml.loss ts: 102 (6.14) obj: 9.525173e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 120 (35.93) ml.loss tr: 190 (5.69) err_ts: 60 (36.14) ml.loss ts: 92 (5.54) obj: 9.571503e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 116 (34.73) ml.loss tr: 178 (5.33) err_ts: 55 (33.13) ml.loss ts: 84 (5.06) obj: 9.573329e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 123 (36.83) ml.loss tr: 177 (5.30) err_ts: 63 (37.95) ml.loss ts: 88 (5.30) obj: 9.640965e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 151 (45.21) ml.loss tr: 221 (6.62) err_ts: 76 (45.78) ml.loss ts: 111 (6.69) obj: 9.672374e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 151 (45.21) ml.loss tr: 221 (6.62) err_ts: 76 (45.78) ml.loss ts: 111 (6.69) obj: 9.672374e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) err_ts: 76 (45.78) ml.loss ts: 105 (6.33) obj: 9.696431e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) err_ts: 76 (45.78) ml.loss ts: 105 (6.33) obj: 9.696431e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) err_ts: 76 (45.78) ml.loss ts: 105 (6.33) obj: 9.696431e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) err_ts: 76 (45.78) ml.loss ts: 105 (6.33) obj: 9.696431e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) err_ts: 76 (45.78) ml.loss ts: 105 (6.33) obj: 9.696431e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 131 (39.22) ml.loss tr: 199 (5.96) err_ts: 65 (39.16) ml.loss ts: 96 (5.78) obj: 9.710870e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 131 (39.22) ml.loss tr: 199 (5.96) err_ts: 65 (39.16) ml.loss ts: 96 (5.78) obj: 9.710870e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 131 (39.22) ml.loss tr: 199 (5.96) err_ts: 65 (39.16) ml.loss ts: 96 (5.78) obj: 9.710870e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 133 (39.82) ml.loss tr: 201 (6.02) err_ts: 68 (40.96) ml.loss ts: 98 (5.90) obj: 9.710962e+02
+19-Feb-2013 17:39:02: td: 11 err_tr: 133 (39.82) ml.loss tr: 201 (6.02) err_ts: 68 (40.96) ml.loss ts: 98 (5.90) obj: 9.710962e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 138 (41.32) ml.loss tr: 202 (6.05) err_ts: 68 (40.96) ml.loss ts: 96 (5.78) obj: 9.713420e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 133 (39.82) ml.loss tr: 202 (6.05) err_ts: 60 (36.14) ml.loss ts: 94 (5.66) obj: 9.730091e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 126 (37.72) ml.loss tr: 184 (5.51) err_ts: 58 (34.94) ml.loss ts: 87 (5.24) obj: 9.736123e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 139 (41.62) ml.loss tr: 202 (6.05) err_ts: 64 (38.55) ml.loss ts: 93 (5.60) obj: 9.738371e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 140 (41.92) ml.loss tr: 204 (6.11) err_ts: 66 (39.76) ml.loss ts: 93 (5.60) obj: 9.739810e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 140 (41.92) ml.loss tr: 204 (6.11) err_ts: 66 (39.76) ml.loss ts: 93 (5.60) obj: 9.739810e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 133 (39.82) ml.loss tr: 196 (5.87) err_ts: 62 (37.35) ml.loss ts: 88 (5.30) obj: 9.741467e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 147 (44.01) ml.loss tr: 213 (6.38) err_ts: 71 (42.77) ml.loss ts: 101 (6.08) obj: 9.743654e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 128 (38.32) ml.loss tr: 190 (5.69) err_ts: 60 (36.14) ml.loss ts: 85 (5.12) obj: 9.751404e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 119 (35.63) ml.loss tr: 171 (5.12) err_ts: 59 (35.54) ml.loss ts: 80 (4.82) obj: 9.756341e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 140 (41.92) ml.loss tr: 205 (6.14) err_ts: 64 (38.55) ml.loss ts: 91 (5.48) obj: 9.776548e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 133 (39.82) ml.loss tr: 197 (5.90) err_ts: 63 (37.95) ml.loss ts: 85 (5.12) obj: 9.783628e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 133 (39.82) ml.loss tr: 197 (5.90) err_ts: 63 (37.95) ml.loss ts: 85 (5.12) obj: 9.783628e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 111 (33.23) ml.loss tr: 170 (5.09) err_ts: 58 (34.94) ml.loss ts: 78 (4.70) obj: 9.788050e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 122 (36.53) ml.loss tr: 183 (5.48) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 9.788649e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 122 (36.53) ml.loss tr: 183 (5.48) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 9.788649e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 125 (37.43) ml.loss tr: 209 (6.26) err_ts: 63 (37.95) ml.loss ts: 103 (6.20) obj: 9.822995e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 125 (37.43) ml.loss tr: 209 (6.26) err_ts: 63 (37.95) ml.loss ts: 103 (6.20) obj: 9.822995e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 125 (37.43) ml.loss tr: 207 (6.20) err_ts: 63 (37.95) ml.loss ts: 103 (6.20) obj: 9.823063e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 120 (35.93) ml.loss tr: 199 (5.96) err_ts: 62 (37.35) ml.loss ts: 101 (6.08) obj: 9.824708e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 120 (35.93) ml.loss tr: 199 (5.96) err_ts: 62 (37.35) ml.loss ts: 101 (6.08) obj: 9.824708e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 121 (36.23) ml.loss tr: 198 (5.93) err_ts: 64 (38.55) ml.loss ts: 103 (6.20) obj: 9.825471e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 119 (35.63) ml.loss tr: 196 (5.87) err_ts: 60 (36.14) ml.loss ts: 96 (5.78) obj: 9.831896e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 119 (35.63) ml.loss tr: 196 (5.87) err_ts: 60 (36.14) ml.loss ts: 96 (5.78) obj: 9.831896e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 121 (36.23) ml.loss tr: 201 (6.02) err_ts: 61 (36.75) ml.loss ts: 100 (6.02) obj: 9.835996e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 135 (40.42) ml.loss tr: 206 (6.17) err_ts: 67 (40.36) ml.loss ts: 107 (6.45) obj: 9.875215e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 135 (40.42) ml.loss tr: 206 (6.17) err_ts: 67 (40.36) ml.loss ts: 107 (6.45) obj: 9.875215e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 119 (35.63) ml.loss tr: 173 (5.18) err_ts: 63 (37.95) ml.loss ts: 95 (5.72) obj: 9.885101e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 119 (35.63) ml.loss tr: 173 (5.18) err_ts: 63 (37.95) ml.loss ts: 95 (5.72) obj: 9.885101e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 119 (35.63) ml.loss tr: 173 (5.18) err_ts: 63 (37.95) ml.loss ts: 95 (5.72) obj: 9.885101e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 143 (42.81) ml.loss tr: 234 (7.01) err_ts: 77 (46.39) ml.loss ts: 118 (7.11) obj: 9.921701e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 133 (39.82) ml.loss tr: 186 (5.57) err_ts: 71 (42.77) ml.loss ts: 104 (6.27) obj: 9.938929e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 151 (45.21) ml.loss tr: 188 (5.63) err_ts: 75 (45.18) ml.loss ts: 99 (5.96) obj: 9.962502e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 151 (45.21) ml.loss tr: 188 (5.63) err_ts: 75 (45.18) ml.loss ts: 99 (5.96) obj: 9.962502e+02
+19-Feb-2013 17:39:02: td: 12 err_tr: 143 (42.81) ml.loss tr: 185 (5.54) err_ts: 75 (45.18) ml.loss ts: 102 (6.14) obj: 9.967764e+02
+19-Feb-2013 17:39:03: td: 12 err_tr: 142 (42.51) ml.loss tr: 190 (5.69) err_ts: 76 (45.78) ml.loss ts: 104 (6.27) obj: 1.002005e+03
+19-Feb-2013 17:39:03: td: 12 err_tr: 142 (42.51) ml.loss tr: 190 (5.69) err_ts: 76 (45.78) ml.loss ts: 104 (6.27) obj: 1.002005e+03
+19-Feb-2013 17:39:03: td: 12 err_tr: 151 (45.21) ml.loss tr: 201 (6.02) err_ts: 77 (46.39) ml.loss ts: 106 (6.39) obj: 1.003864e+03
+19-Feb-2013 17:39:03: td: 12 err_tr: 142 (42.51) ml.loss tr: 203 (6.08) err_ts: 73 (43.98) ml.loss ts: 106 (6.39) obj: 1.006740e+03
+19-Feb-2013 17:39:03: td: 12 err_tr: 142 (42.51) ml.loss tr: 203 (6.08) err_ts: 73 (43.98) ml.loss ts: 106 (6.39) obj: 1.006740e+03
+19-Feb-2013 17:39:03: td: 12 err_tr: 148 (44.31) ml.loss tr: 233 (6.98) err_ts: 77 (46.39) ml.loss ts: 117 (7.05) obj: 1.008623e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 143 (42.81) ml.loss tr: 213 (6.38) err_ts: 76 (45.78) ml.loss ts: 111 (6.69) obj: 1.008821e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 143 (42.81) ml.loss tr: 213 (6.38) err_ts: 76 (45.78) ml.loss ts: 111 (6.69) obj: 1.008821e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 146 (43.71) ml.loss tr: 323 (9.67) err_ts: 76 (45.78) ml.loss ts: 156 (9.40) obj: 1.021652e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 160 (47.90) ml.loss tr: 342 (10.24) err_ts: 84 (50.60) ml.loss ts: 179 (10.78) obj: 1.028049e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 160 (47.90) ml.loss tr: 342 (10.24) err_ts: 84 (50.60) ml.loss ts: 179 (10.78) obj: 1.028049e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 160 (47.90) ml.loss tr: 342 (10.24) err_ts: 84 (50.60) ml.loss ts: 179 (10.78) obj: 1.028049e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 160 (47.90) ml.loss tr: 342 (10.24) err_ts: 84 (50.60) ml.loss ts: 179 (10.78) obj: 1.028049e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 129 (38.62) ml.loss tr: 214 (6.41) err_ts: 67 (40.36) ml.loss ts: 106 (6.39) obj: 1.029834e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 138 (41.32) ml.loss tr: 229 (6.86) err_ts: 71 (42.77) ml.loss ts: 109 (6.57) obj: 1.030106e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 136 (40.72) ml.loss tr: 219 (6.56) err_ts: 68 (40.96) ml.loss ts: 104 (6.27) obj: 1.030876e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 125 (37.43) ml.loss tr: 192 (5.75) err_ts: 62 (37.35) ml.loss ts: 86 (5.18) obj: 1.031225e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 150 (44.91) ml.loss tr: 196 (5.87) err_ts: 67 (40.36) ml.loss ts: 81 (4.88) obj: 1.036271e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 137 (41.02) ml.loss tr: 235 (7.04) err_ts: 70 (42.17) ml.loss ts: 99 (5.96) obj: 1.047090e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 116 (34.73) ml.loss tr: 169 (5.06) err_ts: 66 (39.76) ml.loss ts: 87 (5.24) obj: 1.048861e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 106 (31.74) ml.loss tr: 149 (4.46) err_ts: 54 (32.53) ml.loss ts: 72 (4.34) obj: 1.049219e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 106 (31.74) ml.loss tr: 149 (4.46) err_ts: 54 (32.53) ml.loss ts: 72 (4.34) obj: 1.049219e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 107 (32.04) ml.loss tr: 148 (4.43) err_ts: 54 (32.53) ml.loss ts: 72 (4.34) obj: 1.049221e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 100 (29.94) ml.loss tr: 139 (4.16) err_ts: 54 (32.53) ml.loss ts: 64 (3.86) obj: 1.052103e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 112 (33.53) ml.loss tr: 148 (4.43) err_ts: 57 (34.34) ml.loss ts: 68 (4.10) obj: 1.052376e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 112 (33.53) ml.loss tr: 148 (4.43) err_ts: 57 (34.34) ml.loss ts: 68 (4.10) obj: 1.052376e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 120 (35.93) ml.loss tr: 157 (4.70) err_ts: 66 (39.76) ml.loss ts: 81 (4.88) obj: 1.052722e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 115 (34.43) ml.loss tr: 158 (4.73) err_ts: 64 (38.55) ml.loss ts: 82 (4.94) obj: 1.054673e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 117 (35.03) ml.loss tr: 164 (4.91) err_ts: 66 (39.76) ml.loss ts: 85 (5.12) obj: 1.054700e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 117 (35.03) ml.loss tr: 164 (4.91) err_ts: 66 (39.76) ml.loss ts: 85 (5.12) obj: 1.054700e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 117 (35.03) ml.loss tr: 183 (5.48) err_ts: 59 (35.54) ml.loss ts: 81 (4.88) obj: 1.059247e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 123 (36.83) ml.loss tr: 170 (5.09) err_ts: 64 (38.55) ml.loss ts: 81 (4.88) obj: 1.060403e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 115 (34.43) ml.loss tr: 198 (5.93) err_ts: 64 (38.55) ml.loss ts: 101 (6.08) obj: 1.064509e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 115 (34.43) ml.loss tr: 198 (5.93) err_ts: 64 (38.55) ml.loss ts: 101 (6.08) obj: 1.064509e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 115 (34.43) ml.loss tr: 198 (5.93) err_ts: 64 (38.55) ml.loss ts: 101 (6.08) obj: 1.064509e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 115 (34.43) ml.loss tr: 198 (5.93) err_ts: 64 (38.55) ml.loss ts: 101 (6.08) obj: 1.064509e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 107 (32.04) ml.loss tr: 152 (4.55) err_ts: 56 (33.73) ml.loss ts: 75 (4.52) obj: 1.068951e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 109 (32.63) ml.loss tr: 166 (4.97) err_ts: 55 (33.13) ml.loss ts: 74 (4.46) obj: 1.070125e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 111 (33.23) ml.loss tr: 172 (5.15) err_ts: 52 (31.33) ml.loss ts: 73 (4.40) obj: 1.070450e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 111 (33.23) ml.loss tr: 172 (5.15) err_ts: 52 (31.33) ml.loss ts: 73 (4.40) obj: 1.070450e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 128 (38.32) ml.loss tr: 189 (5.66) err_ts: 65 (39.16) ml.loss ts: 94 (5.66) obj: 1.071851e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 128 (38.32) ml.loss tr: 189 (5.66) err_ts: 65 (39.16) ml.loss ts: 94 (5.66) obj: 1.071851e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 128 (38.32) ml.loss tr: 189 (5.66) err_ts: 65 (39.16) ml.loss ts: 94 (5.66) obj: 1.071851e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 137 (41.02) ml.loss tr: 210 (6.29) err_ts: 70 (42.17) ml.loss ts: 96 (5.78) obj: 1.073435e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 125 (37.43) ml.loss tr: 168 (5.03) err_ts: 69 (41.57) ml.loss ts: 98 (5.90) obj: 1.077721e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 125 (37.43) ml.loss tr: 168 (5.03) err_ts: 69 (41.57) ml.loss ts: 98 (5.90) obj: 1.077721e+03
+19-Feb-2013 17:39:03: td: 13 err_tr: 125 (37.43) ml.loss tr: 168 (5.03) err_ts: 69 (41.57) ml.loss ts: 98 (5.90) obj: 1.077721e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 121 (36.23) ml.loss tr: 166 (4.97) err_ts: 66 (39.76) ml.loss ts: 97 (5.84) obj: 1.078610e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) err_ts: 58 (34.94) ml.loss ts: 89 (5.36) obj: 1.078776e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) err_ts: 58 (34.94) ml.loss ts: 89 (5.36) obj: 1.078776e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) err_ts: 58 (34.94) ml.loss ts: 89 (5.36) obj: 1.078776e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) err_ts: 61 (36.75) ml.loss ts: 88 (5.30) obj: 1.078871e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) err_ts: 61 (36.75) ml.loss ts: 88 (5.30) obj: 1.078871e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) err_ts: 61 (36.75) ml.loss ts: 88 (5.30) obj: 1.078871e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 115 (34.43) ml.loss tr: 164 (4.91) err_ts: 63 (37.95) ml.loss ts: 90 (5.42) obj: 1.080804e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 115 (34.43) ml.loss tr: 164 (4.91) err_ts: 63 (37.95) ml.loss ts: 90 (5.42) obj: 1.080804e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 117 (35.03) ml.loss tr: 175 (5.24) err_ts: 51 (30.72) ml.loss ts: 76 (4.58) obj: 1.081734e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 120 (35.93) ml.loss tr: 208 (6.23) err_ts: 65 (39.16) ml.loss ts: 103 (6.20) obj: 1.085704e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 120 (35.93) ml.loss tr: 208 (6.23) err_ts: 65 (39.16) ml.loss ts: 103 (6.20) obj: 1.085704e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 125 (37.43) ml.loss tr: 182 (5.45) err_ts: 65 (39.16) ml.loss ts: 96 (5.78) obj: 1.086955e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 114 (34.13) ml.loss tr: 163 (4.88) err_ts: 60 (36.14) ml.loss ts: 87 (5.24) obj: 1.087777e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) err_ts: 74 (44.58) ml.loss ts: 107 (6.45) obj: 1.089695e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) err_ts: 74 (44.58) ml.loss ts: 107 (6.45) obj: 1.089695e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) err_ts: 74 (44.58) ml.loss ts: 107 (6.45) obj: 1.089695e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) err_ts: 74 (44.58) ml.loss ts: 107 (6.45) obj: 1.089695e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) err_ts: 74 (44.58) ml.loss ts: 107 (6.45) obj: 1.089695e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) err_ts: 74 (44.58) ml.loss ts: 107 (6.45) obj: 1.089695e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 134 (40.12) ml.loss tr: 197 (5.90) err_ts: 74 (44.58) ml.loss ts: 103 (6.20) obj: 1.089891e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 112 (33.53) ml.loss tr: 150 (4.49) err_ts: 53 (31.93) ml.loss ts: 73 (4.40) obj: 1.092531e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 156 (4.67) err_ts: 64 (38.55) ml.loss ts: 83 (5.00) obj: 1.092845e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 156 (4.67) err_ts: 64 (38.55) ml.loss ts: 83 (5.00) obj: 1.092845e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 156 (4.67) err_ts: 64 (38.55) ml.loss ts: 83 (5.00) obj: 1.092845e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 156 (4.67) err_ts: 64 (38.55) ml.loss ts: 83 (5.00) obj: 1.092845e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 115 (34.43) ml.loss tr: 152 (4.55) err_ts: 56 (33.73) ml.loss ts: 71 (4.28) obj: 1.095987e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 115 (34.43) ml.loss tr: 152 (4.55) err_ts: 56 (33.73) ml.loss ts: 71 (4.28) obj: 1.095987e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 115 (34.43) ml.loss tr: 152 (4.55) err_ts: 56 (33.73) ml.loss ts: 71 (4.28) obj: 1.095987e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 120 (35.93) ml.loss tr: 174 (5.21) err_ts: 62 (37.35) ml.loss ts: 90 (5.42) obj: 1.098581e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 120 (35.93) ml.loss tr: 174 (5.21) err_ts: 62 (37.35) ml.loss ts: 90 (5.42) obj: 1.098581e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 120 (35.93) ml.loss tr: 174 (5.21) err_ts: 62 (37.35) ml.loss ts: 90 (5.42) obj: 1.098581e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 113 (33.83) ml.loss tr: 163 (4.88) err_ts: 57 (34.34) ml.loss ts: 83 (5.00) obj: 1.098709e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 113 (33.83) ml.loss tr: 163 (4.88) err_ts: 57 (34.34) ml.loss ts: 83 (5.00) obj: 1.098709e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 105 (31.44) ml.loss tr: 162 (4.85) err_ts: 53 (31.93) ml.loss ts: 84 (5.06) obj: 1.098981e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 120 (35.93) ml.loss tr: 182 (5.45) err_ts: 57 (34.34) ml.loss ts: 88 (5.30) obj: 1.099215e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 107 (32.04) ml.loss tr: 164 (4.91) err_ts: 52 (31.33) ml.loss ts: 83 (5.00) obj: 1.099346e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 111 (33.23) ml.loss tr: 167 (5.00) err_ts: 53 (31.93) ml.loss ts: 85 (5.12) obj: 1.099868e+03
+19-Feb-2013 17:39:03: td: 14 err_tr: 112 (33.53) ml.loss tr: 159 (4.76) err_ts: 51 (30.72) ml.loss ts: 70 (4.22) obj: 1.100682e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 104 (31.14) ml.loss tr: 139 (4.16) err_ts: 56 (33.73) ml.loss ts: 75 (4.52) obj: 1.104035e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 104 (31.14) ml.loss tr: 139 (4.16) err_ts: 56 (33.73) ml.loss ts: 75 (4.52) obj: 1.104035e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 102 (30.54) ml.loss tr: 141 (4.22) err_ts: 54 (32.53) ml.loss ts: 72 (4.34) obj: 1.104154e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 105 (31.44) ml.loss tr: 156 (4.67) err_ts: 60 (36.14) ml.loss ts: 84 (5.06) obj: 1.104875e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 107 (32.04) ml.loss tr: 164 (4.91) err_ts: 55 (33.13) ml.loss ts: 75 (4.52) obj: 1.108651e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 115 (34.43) ml.loss tr: 172 (5.15) err_ts: 58 (34.94) ml.loss ts: 80 (4.82) obj: 1.109300e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 105 (31.44) ml.loss tr: 151 (4.52) err_ts: 59 (35.54) ml.loss ts: 81 (4.88) obj: 1.113319e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 105 (31.44) ml.loss tr: 151 (4.52) err_ts: 59 (35.54) ml.loss ts: 81 (4.88) obj: 1.113319e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 132 (39.52) ml.loss tr: 182 (5.45) err_ts: 74 (44.58) ml.loss ts: 98 (5.90) obj: 1.115454e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 132 (39.52) ml.loss tr: 182 (5.45) err_ts: 74 (44.58) ml.loss ts: 98 (5.90) obj: 1.115454e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 139 (41.62) ml.loss tr: 250 (7.49) err_ts: 74 (44.58) ml.loss ts: 137 (8.25) obj: 1.117246e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 139 (41.62) ml.loss tr: 250 (7.49) err_ts: 74 (44.58) ml.loss ts: 137 (8.25) obj: 1.117246e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 139 (41.62) ml.loss tr: 250 (7.49) err_ts: 74 (44.58) ml.loss ts: 137 (8.25) obj: 1.117246e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 139 (41.62) ml.loss tr: 250 (7.49) err_ts: 74 (44.58) ml.loss ts: 137 (8.25) obj: 1.117246e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 114 (34.13) ml.loss tr: 179 (5.36) err_ts: 60 (36.14) ml.loss ts: 92 (5.54) obj: 1.122149e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 114 (34.13) ml.loss tr: 179 (5.36) err_ts: 60 (36.14) ml.loss ts: 91 (5.48) obj: 1.122153e+03
+19-Feb-2013 17:39:03: td: 15 err_tr: 115 (34.43) ml.loss tr: 174 (5.21) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 1.122362e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 115 (34.43) ml.loss tr: 174 (5.21) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 1.122362e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 145 (43.41) ml.loss tr: 210 (6.29) err_ts: 64 (38.55) ml.loss ts: 93 (5.60) obj: 1.127688e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 138 (41.32) ml.loss tr: 208 (6.23) err_ts: 64 (38.55) ml.loss ts: 94 (5.66) obj: 1.128079e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 134 (40.12) ml.loss tr: 204 (6.11) err_ts: 64 (38.55) ml.loss ts: 95 (5.72) obj: 1.128131e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 134 (40.12) ml.loss tr: 204 (6.11) err_ts: 64 (38.55) ml.loss ts: 95 (5.72) obj: 1.128131e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 114 (34.13) ml.loss tr: 172 (5.15) err_ts: 56 (33.73) ml.loss ts: 81 (4.88) obj: 1.131447e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 116 (34.73) ml.loss tr: 171 (5.12) err_ts: 50 (30.12) ml.loss ts: 70 (4.22) obj: 1.132223e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 102 (30.54) ml.loss tr: 144 (4.31) err_ts: 55 (33.13) ml.loss ts: 76 (4.58) obj: 1.136102e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 102 (30.54) ml.loss tr: 144 (4.31) err_ts: 55 (33.13) ml.loss ts: 76 (4.58) obj: 1.136102e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 102 (30.54) ml.loss tr: 144 (4.31) err_ts: 55 (33.13) ml.loss ts: 76 (4.58) obj: 1.136102e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 108 (32.34) ml.loss tr: 153 (4.58) err_ts: 53 (31.93) ml.loss ts: 74 (4.46) obj: 1.136434e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) err_ts: 56 (33.73) ml.loss ts: 81 (4.88) obj: 1.138518e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) err_ts: 56 (33.73) ml.loss ts: 81 (4.88) obj: 1.138518e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 112 (33.53) ml.loss tr: 160 (4.79) err_ts: 53 (31.93) ml.loss ts: 75 (4.52) obj: 1.141504e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 112 (33.53) ml.loss tr: 160 (4.79) err_ts: 53 (31.93) ml.loss ts: 75 (4.52) obj: 1.141504e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 112 (33.53) ml.loss tr: 160 (4.79) err_ts: 53 (31.93) ml.loss ts: 75 (4.52) obj: 1.141504e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 116 (34.73) ml.loss tr: 164 (4.91) err_ts: 51 (30.72) ml.loss ts: 73 (4.40) obj: 1.141992e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 116 (34.73) ml.loss tr: 164 (4.91) err_ts: 51 (30.72) ml.loss ts: 73 (4.40) obj: 1.141992e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 117 (35.03) ml.loss tr: 169 (5.06) err_ts: 55 (33.13) ml.loss ts: 78 (4.70) obj: 1.142115e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 116 (34.73) ml.loss tr: 168 (5.03) err_ts: 56 (33.73) ml.loss ts: 79 (4.76) obj: 1.142116e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 138 (41.32) ml.loss tr: 171 (5.12) err_ts: 71 (42.77) ml.loss ts: 99 (5.96) obj: 1.145637e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 138 (41.32) ml.loss tr: 171 (5.12) err_ts: 71 (42.77) ml.loss ts: 99 (5.96) obj: 1.145637e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 138 (41.32) ml.loss tr: 171 (5.12) err_ts: 71 (42.77) ml.loss ts: 99 (5.96) obj: 1.145637e+03
+19-Feb-2013 17:39:04: td: 15 err_tr: 130 (38.92) ml.loss tr: 179 (5.36) err_ts: 64 (38.55) ml.loss ts: 83 (5.00) obj: 1.147164e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 123 (36.83) ml.loss tr: 172 (5.15) err_ts: 60 (36.14) ml.loss ts: 78 (4.70) obj: 1.147355e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 123 (36.83) ml.loss tr: 172 (5.15) err_ts: 60 (36.14) ml.loss ts: 78 (4.70) obj: 1.147355e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 129 (38.62) ml.loss tr: 169 (5.06) err_ts: 64 (38.55) ml.loss ts: 84 (5.06) obj: 1.147433e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 138 (41.32) ml.loss tr: 215 (6.44) err_ts: 71 (42.77) ml.loss ts: 104 (6.27) obj: 1.152405e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 138 (41.32) ml.loss tr: 215 (6.44) err_ts: 71 (42.77) ml.loss ts: 104 (6.27) obj: 1.152405e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 136 (40.72) ml.loss tr: 213 (6.38) err_ts: 73 (43.98) ml.loss ts: 106 (6.39) obj: 1.152421e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 136 (40.72) ml.loss tr: 213 (6.38) err_ts: 73 (43.98) ml.loss ts: 106 (6.39) obj: 1.152421e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 131 (39.22) ml.loss tr: 194 (5.81) err_ts: 66 (39.76) ml.loss ts: 98 (5.90) obj: 1.155557e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 131 (39.22) ml.loss tr: 195 (5.84) err_ts: 65 (39.16) ml.loss ts: 95 (5.72) obj: 1.155561e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 117 (35.03) ml.loss tr: 169 (5.06) err_ts: 61 (36.75) ml.loss ts: 80 (4.82) obj: 1.155874e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 108 (32.34) ml.loss tr: 163 (4.88) err_ts: 54 (32.53) ml.loss ts: 76 (4.58) obj: 1.156791e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 108 (32.34) ml.loss tr: 163 (4.88) err_ts: 54 (32.53) ml.loss ts: 76 (4.58) obj: 1.156791e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) err_ts: 53 (31.93) ml.loss ts: 75 (4.52) obj: 1.156838e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) err_ts: 53 (31.93) ml.loss ts: 75 (4.52) obj: 1.156838e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) err_ts: 53 (31.93) ml.loss ts: 75 (4.52) obj: 1.156838e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) err_ts: 53 (31.93) ml.loss ts: 75 (4.52) obj: 1.156838e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 119 (35.63) ml.loss tr: 192 (5.75) err_ts: 62 (37.35) ml.loss ts: 90 (5.42) obj: 1.159082e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 119 (35.63) ml.loss tr: 186 (5.57) err_ts: 61 (36.75) ml.loss ts: 87 (5.24) obj: 1.159553e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 1.162010e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 1.162010e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 1.162010e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 1.162010e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 1.162010e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 115 (34.43) ml.loss tr: 169 (5.06) err_ts: 61 (36.75) ml.loss ts: 85 (5.12) obj: 1.164102e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 115 (34.43) ml.loss tr: 169 (5.06) err_ts: 61 (36.75) ml.loss ts: 85 (5.12) obj: 1.164102e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 114 (34.13) ml.loss tr: 167 (5.00) err_ts: 61 (36.75) ml.loss ts: 84 (5.06) obj: 1.164118e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 114 (34.13) ml.loss tr: 167 (5.00) err_ts: 61 (36.75) ml.loss ts: 84 (5.06) obj: 1.164118e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) err_ts: 55 (33.13) ml.loss ts: 74 (4.46) obj: 1.164473e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) err_ts: 55 (33.13) ml.loss ts: 74 (4.46) obj: 1.164473e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) err_ts: 55 (33.13) ml.loss ts: 74 (4.46) obj: 1.164473e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) err_ts: 55 (33.13) ml.loss ts: 74 (4.46) obj: 1.164473e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) err_ts: 55 (33.13) ml.loss ts: 74 (4.46) obj: 1.164473e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 112 (33.53) ml.loss tr: 169 (5.06) err_ts: 56 (33.73) ml.loss ts: 83 (5.00) obj: 1.165283e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 133 (39.82) ml.loss tr: 208 (6.23) err_ts: 64 (38.55) ml.loss ts: 94 (5.66) obj: 1.165951e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 129 (38.62) ml.loss tr: 189 (5.66) err_ts: 69 (41.57) ml.loss ts: 92 (5.54) obj: 1.167149e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 153 (45.81) ml.loss tr: 226 (6.77) err_ts: 74 (44.58) ml.loss ts: 103 (6.20) obj: 1.174421e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 128 (38.32) ml.loss tr: 194 (5.81) err_ts: 68 (40.96) ml.loss ts: 98 (5.90) obj: 1.180339e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 129 (38.62) ml.loss tr: 193 (5.78) err_ts: 67 (40.36) ml.loss ts: 91 (5.48) obj: 1.180765e+03
+19-Feb-2013 17:39:04: td: 16 err_tr: 122 (36.53) ml.loss tr: 175 (5.24) err_ts: 67 (40.36) ml.loss ts: 103 (6.20) obj: 1.187982e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 130 (38.92) ml.loss tr: 191 (5.72) err_ts: 72 (43.37) ml.loss ts: 104 (6.27) obj: 1.188482e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 117 (35.03) ml.loss tr: 160 (4.79) err_ts: 61 (36.75) ml.loss ts: 91 (5.48) obj: 1.188931e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 114 (34.13) ml.loss tr: 159 (4.76) err_ts: 66 (39.76) ml.loss ts: 87 (5.24) obj: 1.189900e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 102 (30.54) ml.loss tr: 144 (4.31) err_ts: 61 (36.75) ml.loss ts: 80 (4.82) obj: 1.190159e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 106 (31.74) ml.loss tr: 131 (3.92) err_ts: 65 (39.16) ml.loss ts: 83 (5.00) obj: 1.192047e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 106 (31.74) ml.loss tr: 133 (3.98) err_ts: 64 (38.55) ml.loss ts: 88 (5.30) obj: 1.192178e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 128 (38.32) ml.loss tr: 157 (4.70) err_ts: 60 (36.14) ml.loss ts: 79 (4.76) obj: 1.196455e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 128 (38.32) ml.loss tr: 157 (4.70) err_ts: 60 (36.14) ml.loss ts: 79 (4.76) obj: 1.196455e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) err_ts: 58 (34.94) ml.loss ts: 77 (4.64) obj: 1.196488e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) err_ts: 58 (34.94) ml.loss ts: 77 (4.64) obj: 1.196488e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) err_ts: 58 (34.94) ml.loss ts: 77 (4.64) obj: 1.196488e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) err_ts: 58 (34.94) ml.loss ts: 77 (4.64) obj: 1.196488e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) err_ts: 58 (34.94) ml.loss ts: 77 (4.64) obj: 1.196488e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 134 (40.12) ml.loss tr: 170 (5.09) err_ts: 55 (33.13) ml.loss ts: 75 (4.52) obj: 1.196882e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 124 (37.13) ml.loss tr: 170 (5.09) err_ts: 62 (37.35) ml.loss ts: 87 (5.24) obj: 1.199145e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 126 (37.72) ml.loss tr: 167 (5.00) err_ts: 63 (37.95) ml.loss ts: 89 (5.36) obj: 1.199647e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 126 (37.72) ml.loss tr: 173 (5.18) err_ts: 63 (37.95) ml.loss ts: 85 (5.12) obj: 1.207596e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 1.208492e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 1.208492e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 1.208492e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 1.208492e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 1.208492e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) err_ts: 62 (37.35) ml.loss ts: 82 (4.94) obj: 1.208492e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 156 (4.67) err_ts: 60 (36.14) ml.loss ts: 79 (4.76) obj: 1.208698e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 156 (4.67) err_ts: 60 (36.14) ml.loss ts: 79 (4.76) obj: 1.208698e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 122 (36.53) ml.loss tr: 156 (4.67) err_ts: 60 (36.14) ml.loss ts: 79 (4.76) obj: 1.208698e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 127 (38.02) ml.loss tr: 159 (4.76) err_ts: 62 (37.35) ml.loss ts: 79 (4.76) obj: 1.209100e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 127 (38.02) ml.loss tr: 159 (4.76) err_ts: 62 (37.35) ml.loss ts: 79 (4.76) obj: 1.209100e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 127 (38.02) ml.loss tr: 158 (4.73) err_ts: 61 (36.75) ml.loss ts: 78 (4.70) obj: 1.209107e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 111 (33.23) ml.loss tr: 148 (4.43) err_ts: 51 (30.72) ml.loss ts: 76 (4.58) obj: 1.211076e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 114 (34.13) ml.loss tr: 170 (5.09) err_ts: 53 (31.93) ml.loss ts: 72 (4.34) obj: 1.213367e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 113 (33.83) ml.loss tr: 152 (4.55) err_ts: 57 (34.34) ml.loss ts: 71 (4.28) obj: 1.218087e+03
+19-Feb-2013 17:39:04: td: 17 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) err_ts: 60 (36.14) ml.loss ts: 75 (4.52) obj: 1.218087e+03
+19-Feb-2013 17:39:16: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+19-Feb-2013 17:39:17: td: 0 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 127 (38.02) ml.loss tr: 199 (5.96) obj: 4.840491e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 127 (38.02) ml.loss tr: 199 (5.96) obj: 4.840491e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 106 (31.74) ml.loss tr: 169 (5.06) obj: 4.851945e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 103 (30.84) ml.loss tr: 172 (5.15) obj: 4.853526e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 103 (30.84) ml.loss tr: 172 (5.15) obj: 4.853526e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 120 (35.93) ml.loss tr: 217 (6.50) obj: 4.875462e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) obj: 4.876103e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) obj: 4.876103e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) obj: 4.876103e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 132 (39.52) ml.loss tr: 229 (6.86) obj: 4.882003e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 132 (39.52) ml.loss tr: 229 (6.86) obj: 4.882003e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 144 (43.11) ml.loss tr: 215 (6.44) obj: 4.946527e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 144 (43.11) ml.loss tr: 215 (6.44) obj: 4.946527e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 141 (42.22) ml.loss tr: 208 (6.23) obj: 4.947346e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 125 (37.43) ml.loss tr: 235 (7.04) obj: 4.973791e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) obj: 4.974293e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) obj: 4.974293e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) obj: 4.974293e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) obj: 4.974293e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 125 (37.43) ml.loss tr: 235 (7.04) obj: 4.974681e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) obj: 4.975446e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) obj: 4.975446e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) obj: 4.975446e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 105 (31.44) ml.loss tr: 193 (5.78) obj: 5.056960e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 110 (32.93) ml.loss tr: 181 (5.42) obj: 5.062829e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 110 (32.93) ml.loss tr: 181 (5.42) obj: 5.062829e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 106 (31.74) ml.loss tr: 224 (6.71) obj: 5.070304e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 106 (31.74) ml.loss tr: 224 (6.71) obj: 5.070304e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 104 (31.14) ml.loss tr: 197 (5.90) obj: 5.081416e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 120 (35.93) ml.loss tr: 191 (5.72) obj: 5.118935e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 122 (36.53) ml.loss tr: 174 (5.21) obj: 5.124567e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 108 (32.34) ml.loss tr: 176 (5.27) obj: 5.135762e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 137 (41.02) ml.loss tr: 297 (8.89) obj: 5.296483e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 131 (39.22) ml.loss tr: 226 (6.77) obj: 5.369081e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 119 (35.63) ml.loss tr: 161 (4.82) obj: 5.386596e+02
+19-Feb-2013 17:39:17: td: 1 err_tr: 119 (35.63) ml.loss tr: 161 (4.82) obj: 5.386596e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 110 (32.93) ml.loss tr: 163 (4.88) obj: 5.417007e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 110 (32.93) ml.loss tr: 163 (4.88) obj: 5.417007e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 114 (34.13) ml.loss tr: 158 (4.73) obj: 5.425646e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 114 (34.13) ml.loss tr: 158 (4.73) obj: 5.425646e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) obj: 5.439586e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) obj: 5.439586e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 127 (38.02) ml.loss tr: 192 (5.75) obj: 5.487011e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 127 (38.02) ml.loss tr: 192 (5.75) obj: 5.487011e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 139 (41.62) ml.loss tr: 207 (6.20) obj: 5.490138e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 135 (40.42) ml.loss tr: 209 (6.26) obj: 5.495497e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 138 (41.32) ml.loss tr: 203 (6.08) obj: 5.507221e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 111 (33.23) ml.loss tr: 175 (5.24) obj: 5.523799e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 111 (33.23) ml.loss tr: 175 (5.24) obj: 5.523799e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 115 (34.43) ml.loss tr: 186 (5.57) obj: 5.524894e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 115 (34.43) ml.loss tr: 186 (5.57) obj: 5.524894e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) obj: 5.544227e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) obj: 5.544227e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) obj: 5.544227e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) obj: 5.583069e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) obj: 5.583069e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) obj: 5.583069e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 123 (36.83) ml.loss tr: 218 (6.53) obj: 5.588632e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 112 (33.53) ml.loss tr: 188 (5.63) obj: 5.627687e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 138 (41.32) ml.loss tr: 229 (6.86) obj: 5.679909e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) obj: 5.716313e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) obj: 5.716313e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) obj: 5.716313e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 127 (38.02) ml.loss tr: 196 (5.87) obj: 5.718927e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 133 (39.82) ml.loss tr: 212 (6.35) obj: 5.778316e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 133 (39.82) ml.loss tr: 212 (6.35) obj: 5.778316e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 125 (37.43) ml.loss tr: 198 (5.93) obj: 5.779635e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 147 (44.01) ml.loss tr: 249 (7.46) obj: 5.817973e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 129 (38.62) ml.loss tr: 194 (5.81) obj: 5.843786e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 176 (52.69) ml.loss tr: 265 (7.93) obj: 5.939534e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 177 (52.99) ml.loss tr: 269 (8.05) obj: 5.939621e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 170 (50.90) ml.loss tr: 241 (7.22) obj: 6.013599e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 152 (45.51) ml.loss tr: 254 (7.60) obj: 6.101236e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 152 (45.51) ml.loss tr: 254 (7.60) obj: 6.101236e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 148 (44.31) ml.loss tr: 223 (6.68) obj: 6.201171e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 147 (44.01) ml.loss tr: 222 (6.65) obj: 6.201249e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 144 (43.11) ml.loss tr: 218 (6.53) obj: 6.202109e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 140 (41.92) ml.loss tr: 212 (6.35) obj: 6.202542e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 140 (41.92) ml.loss tr: 212 (6.35) obj: 6.202542e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 147 (44.01) ml.loss tr: 212 (6.35) obj: 6.204132e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 157 (47.01) ml.loss tr: 239 (7.16) obj: 6.221977e+02
+19-Feb-2013 17:39:17: td: 2 err_tr: 134 (40.12) ml.loss tr: 205 (6.14) obj: 6.232351e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 151 (45.21) ml.loss tr: 223 (6.68) obj: 6.234190e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 158 (47.31) ml.loss tr: 234 (7.01) obj: 6.234740e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 158 (47.31) ml.loss tr: 234 (7.01) obj: 6.234740e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 139 (41.62) ml.loss tr: 214 (6.41) obj: 6.238481e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 162 (48.50) ml.loss tr: 239 (7.16) obj: 6.242086e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 135 (40.42) ml.loss tr: 210 (6.29) obj: 6.251644e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 123 (36.83) ml.loss tr: 194 (5.81) obj: 6.258862e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 154 (46.11) ml.loss tr: 231 (6.92) obj: 6.285520e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 138 (41.32) ml.loss tr: 209 (6.26) obj: 6.293457e+02
+19-Feb-2013 17:39:18: td: 2 err_tr: 138 (41.32) ml.loss tr: 209 (6.26) obj: 6.293457e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 108 (32.34) ml.loss tr: 177 (5.30) obj: 6.300358e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 134 (40.12) ml.loss tr: 216 (6.47) obj: 6.303704e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 134 (40.12) ml.loss tr: 216 (6.47) obj: 6.303704e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) obj: 6.328043e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) obj: 6.328043e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) obj: 6.328174e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) obj: 6.331840e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) obj: 6.331840e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) obj: 6.332379e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 114 (34.13) ml.loss tr: 189 (5.66) obj: 6.339782e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 114 (34.13) ml.loss tr: 189 (5.66) obj: 6.339782e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 119 (35.63) ml.loss tr: 183 (5.48) obj: 6.345789e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 144 (43.11) ml.loss tr: 253 (7.57) obj: 6.389870e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 144 (43.11) ml.loss tr: 253 (7.57) obj: 6.389870e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) obj: 6.403964e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) obj: 6.403964e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) obj: 6.403964e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 154 (46.11) ml.loss tr: 280 (8.38) obj: 6.460355e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 166 (49.70) ml.loss tr: 285 (8.53) obj: 6.474675e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 161 (48.20) ml.loss tr: 251 (7.51) obj: 6.505669e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 161 (48.20) ml.loss tr: 251 (7.51) obj: 6.505669e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 159 (47.60) ml.loss tr: 225 (6.74) obj: 6.527997e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 156 (46.71) ml.loss tr: 245 (7.34) obj: 6.580207e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 150 (44.91) ml.loss tr: 215 (6.44) obj: 6.583279e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 162 (48.50) ml.loss tr: 231 (6.92) obj: 6.604819e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 158 (47.31) ml.loss tr: 237 (7.10) obj: 6.633152e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 158 (47.31) ml.loss tr: 237 (7.10) obj: 6.633152e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 156 (46.71) ml.loss tr: 258 (7.72) obj: 6.658361e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 147 (44.01) ml.loss tr: 245 (7.34) obj: 6.659067e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 147 (44.01) ml.loss tr: 245 (7.34) obj: 6.659067e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 156 (46.71) ml.loss tr: 458 (13.71) obj: 6.733362e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) obj: 6.751010e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) obj: 6.751010e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) obj: 6.751010e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) obj: 6.751010e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 142 (42.51) ml.loss tr: 235 (7.04) obj: 6.764805e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 146 (43.71) ml.loss tr: 240 (7.19) obj: 6.765560e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 148 (44.31) ml.loss tr: 242 (7.25) obj: 6.772184e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 130 (38.92) ml.loss tr: 216 (6.47) obj: 6.788143e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 167 (50.00) ml.loss tr: 233 (6.98) obj: 6.824806e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 140 (41.92) ml.loss tr: 242 (7.25) obj: 6.927755e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 119 (35.63) ml.loss tr: 175 (5.24) obj: 6.953901e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) obj: 6.961558e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) obj: 6.961558e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) obj: 6.961558e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 120 (35.93) ml.loss tr: 179 (5.36) obj: 6.992491e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 110 (32.93) ml.loss tr: 170 (5.09) obj: 6.998877e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 110 (32.93) ml.loss tr: 170 (5.09) obj: 6.998877e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 111 (33.23) ml.loss tr: 169 (5.06) obj: 6.999899e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) obj: 7.022797e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) obj: 7.022797e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) obj: 7.022797e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 100 (29.94) ml.loss tr: 166 (4.97) obj: 7.048548e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 111 (33.23) ml.loss tr: 192 (5.75) obj: 7.063561e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) obj: 7.139022e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) obj: 7.139022e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) obj: 7.139022e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) obj: 7.139022e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 123 (36.83) ml.loss tr: 178 (5.33) obj: 7.186429e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 97 (29.04) ml.loss tr: 150 (4.49) obj: 7.198432e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 107 (32.04) ml.loss tr: 165 (4.94) obj: 7.199143e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 107 (32.04) ml.loss tr: 165 (4.94) obj: 7.199143e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) obj: 7.213926e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) obj: 7.213926e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) obj: 7.213926e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 136 (40.72) ml.loss tr: 193 (5.78) obj: 7.233548e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 134 (40.12) ml.loss tr: 177 (5.30) obj: 7.257280e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 134 (40.12) ml.loss tr: 177 (5.30) obj: 7.257280e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 131 (39.22) ml.loss tr: 160 (4.79) obj: 7.258684e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 120 (35.93) ml.loss tr: 148 (4.43) obj: 7.264746e+02
+19-Feb-2013 17:39:18: td: 3 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) obj: 7.268407e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) obj: 7.268407e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) obj: 7.268407e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) obj: 7.270285e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) obj: 7.270285e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) obj: 7.270285e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 115 (34.43) ml.loss tr: 147 (4.40) obj: 7.277781e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 115 (34.43) ml.loss tr: 147 (4.40) obj: 7.277781e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 100 (29.94) ml.loss tr: 132 (3.95) obj: 7.286435e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 120 (35.93) ml.loss tr: 189 (5.66) obj: 7.325690e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 120 (35.93) ml.loss tr: 189 (5.66) obj: 7.325690e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 121 (36.23) ml.loss tr: 172 (5.15) obj: 7.345924e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 110 (32.93) ml.loss tr: 149 (4.46) obj: 7.350785e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 141 (42.22) ml.loss tr: 194 (5.81) obj: 7.373299e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) obj: 7.398827e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) obj: 7.401333e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) obj: 7.401333e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) obj: 7.401333e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) obj: 7.401333e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) obj: 7.432482e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) obj: 7.432482e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) obj: 7.432482e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) obj: 7.457511e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) obj: 7.457511e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) obj: 7.457511e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 112 (33.53) ml.loss tr: 150 (4.49) obj: 7.458627e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 112 (33.53) ml.loss tr: 150 (4.49) obj: 7.458627e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 118 (35.33) ml.loss tr: 153 (4.58) obj: 7.461943e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 119 (35.63) ml.loss tr: 157 (4.70) obj: 7.462218e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 103 (30.84) ml.loss tr: 134 (4.01) obj: 7.463976e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 106 (31.74) ml.loss tr: 152 (4.55) obj: 7.482227e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 109 (32.63) ml.loss tr: 146 (4.37) obj: 7.486816e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 114 (34.13) ml.loss tr: 155 (4.64) obj: 7.517202e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 114 (34.13) ml.loss tr: 155 (4.64) obj: 7.517202e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 106 (31.74) ml.loss tr: 145 (4.34) obj: 7.521956e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 115 (34.43) ml.loss tr: 166 (4.97) obj: 7.526385e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 101 (30.24) ml.loss tr: 157 (4.70) obj: 7.565202e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 111 (33.23) ml.loss tr: 170 (5.09) obj: 7.572497e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 122 (36.53) ml.loss tr: 168 (5.03) obj: 7.631602e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 121 (36.23) ml.loss tr: 168 (5.03) obj: 7.631616e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) obj: 7.649429e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) obj: 7.649429e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 140 (41.92) ml.loss tr: 269 (8.05) obj: 7.665394e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 140 (41.92) ml.loss tr: 269 (8.05) obj: 7.665394e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 140 (41.92) ml.loss tr: 269 (8.05) obj: 7.665394e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 140 (41.92) ml.loss tr: 269 (8.05) obj: 7.665394e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 122 (36.53) ml.loss tr: 186 (5.57) obj: 7.701978e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 122 (36.53) ml.loss tr: 186 (5.57) obj: 7.701978e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 122 (36.53) ml.loss tr: 178 (5.33) obj: 7.705311e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 122 (36.53) ml.loss tr: 178 (5.33) obj: 7.705311e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 148 (44.31) ml.loss tr: 214 (6.41) obj: 7.758211e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 147 (44.01) ml.loss tr: 225 (6.74) obj: 7.765324e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 143 (42.81) ml.loss tr: 217 (6.50) obj: 7.767633e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 141 (42.22) ml.loss tr: 217 (6.50) obj: 7.768016e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 121 (36.23) ml.loss tr: 187 (5.60) obj: 7.807712e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 115 (34.43) ml.loss tr: 172 (5.15) obj: 7.816150e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 105 (31.44) ml.loss tr: 152 (4.55) obj: 7.847236e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 105 (31.44) ml.loss tr: 152 (4.55) obj: 7.847236e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 105 (31.44) ml.loss tr: 152 (4.55) obj: 7.847236e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 113 (33.83) ml.loss tr: 156 (4.67) obj: 7.848360e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 115 (34.43) ml.loss tr: 165 (4.94) obj: 7.863884e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 115 (34.43) ml.loss tr: 165 (4.94) obj: 7.863884e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 113 (33.83) ml.loss tr: 180 (5.39) obj: 7.891854e+02
+19-Feb-2013 17:39:18: td: 4 err_tr: 113 (33.83) ml.loss tr: 180 (5.39) obj: 7.891854e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 113 (33.83) ml.loss tr: 180 (5.39) obj: 7.891854e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 115 (34.43) ml.loss tr: 180 (5.39) obj: 7.898547e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 115 (34.43) ml.loss tr: 180 (5.39) obj: 7.898547e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 114 (34.13) ml.loss tr: 176 (5.27) obj: 7.899224e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 110 (32.93) ml.loss tr: 170 (5.09) obj: 7.899334e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 138 (41.32) ml.loss tr: 175 (5.24) obj: 7.937198e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 138 (41.32) ml.loss tr: 175 (5.24) obj: 7.937198e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 138 (41.32) ml.loss tr: 175 (5.24) obj: 7.937198e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 129 (38.62) ml.loss tr: 172 (5.15) obj: 7.952711e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 125 (37.43) ml.loss tr: 170 (5.09) obj: 7.957150e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 125 (37.43) ml.loss tr: 170 (5.09) obj: 7.957150e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 130 (38.92) ml.loss tr: 168 (5.03) obj: 7.957728e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 143 (42.81) ml.loss tr: 226 (6.77) obj: 8.004453e+02
+19-Feb-2013 17:39:18: td: 5 err_tr: 143 (42.81) ml.loss tr: 226 (6.77) obj: 8.004453e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 144 (43.11) ml.loss tr: 228 (6.83) obj: 8.004475e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 144 (43.11) ml.loss tr: 228 (6.83) obj: 8.004475e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 137 (41.02) ml.loss tr: 212 (6.35) obj: 8.035542e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 137 (41.02) ml.loss tr: 212 (6.35) obj: 8.036104e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 120 (35.93) ml.loss tr: 189 (5.66) obj: 8.041358e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 103 (30.84) ml.loss tr: 161 (4.82) obj: 8.047254e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 103 (30.84) ml.loss tr: 161 (4.82) obj: 8.047254e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) obj: 8.048066e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) obj: 8.048066e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) obj: 8.048066e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) obj: 8.048066e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 120 (35.93) ml.loss tr: 198 (5.93) obj: 8.068110e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 116 (34.73) ml.loss tr: 183 (5.48) obj: 8.072194e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 119 (35.63) ml.loss tr: 182 (5.45) obj: 8.098156e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 118 (35.33) ml.loss tr: 180 (5.39) obj: 8.098291e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 118 (35.33) ml.loss tr: 180 (5.39) obj: 8.098291e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 118 (35.33) ml.loss tr: 180 (5.39) obj: 8.098291e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 118 (35.33) ml.loss tr: 180 (5.39) obj: 8.098291e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) obj: 8.121926e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 101 (30.24) ml.loss tr: 158 (4.73) obj: 8.121926e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 99 (29.64) ml.loss tr: 159 (4.76) obj: 8.122533e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 99 (29.64) ml.loss tr: 159 (4.76) obj: 8.122533e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) obj: 8.123109e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) obj: 8.123109e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) obj: 8.123109e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) obj: 8.123109e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 103 (30.84) ml.loss tr: 156 (4.67) obj: 8.123109e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 134 (40.12) ml.loss tr: 208 (6.23) obj: 8.134148e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 145 (43.41) ml.loss tr: 244 (7.31) obj: 8.140706e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 139 (41.62) ml.loss tr: 234 (7.01) obj: 8.150090e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 128 (38.32) ml.loss tr: 224 (6.71) obj: 8.186243e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 129 (38.62) ml.loss tr: 212 (6.35) obj: 8.203624e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 135 (40.42) ml.loss tr: 207 (6.20) obj: 8.207773e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 140 (41.92) ml.loss tr: 201 (6.02) obj: 8.297771e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 146 (43.71) ml.loss tr: 223 (6.68) obj: 8.306672e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 126 (37.72) ml.loss tr: 174 (5.21) obj: 8.317366e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 117 (35.03) ml.loss tr: 149 (4.46) obj: 8.322607e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 101 (30.24) ml.loss tr: 136 (4.07) obj: 8.325874e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 107 (32.04) ml.loss tr: 135 (4.04) obj: 8.344483e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 107 (32.04) ml.loss tr: 135 (4.04) obj: 8.344483e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 113 (33.83) ml.loss tr: 145 (4.34) obj: 8.370754e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 113 (33.83) ml.loss tr: 145 (4.34) obj: 8.370754e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 112 (33.53) ml.loss tr: 146 (4.37) obj: 8.371267e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 119 (35.63) ml.loss tr: 145 (4.34) obj: 8.383261e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 119 (35.63) ml.loss tr: 145 (4.34) obj: 8.383261e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 119 (35.63) ml.loss tr: 145 (4.34) obj: 8.383261e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 119 (35.63) ml.loss tr: 145 (4.34) obj: 8.383261e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 129 (38.62) ml.loss tr: 162 (4.85) obj: 8.383923e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 127 (38.02) ml.loss tr: 168 (5.03) obj: 8.413015e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 130 (38.92) ml.loss tr: 176 (5.27) obj: 8.415668e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 123 (36.83) ml.loss tr: 163 (4.88) obj: 8.493805e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) obj: 8.502216e+02
+19-Feb-2013 17:39:19: td: 5 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) obj: 8.502216e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) obj: 8.502216e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) obj: 8.502216e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) obj: 8.502216e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 113 (33.83) ml.loss tr: 143 (4.28) obj: 8.502216e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 123 (36.83) ml.loss tr: 151 (4.52) obj: 8.503989e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 123 (36.83) ml.loss tr: 151 (4.52) obj: 8.503989e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 123 (36.83) ml.loss tr: 151 (4.52) obj: 8.503989e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 130 (38.92) ml.loss tr: 154 (4.61) obj: 8.511544e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 129 (38.62) ml.loss tr: 153 (4.58) obj: 8.511610e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 129 (38.62) ml.loss tr: 153 (4.58) obj: 8.511610e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 118 (35.33) ml.loss tr: 164 (4.91) obj: 8.526960e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 112 (33.53) ml.loss tr: 152 (4.55) obj: 8.530867e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 132 (39.52) ml.loss tr: 201 (6.02) obj: 8.595840e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 132 (39.52) ml.loss tr: 201 (6.02) obj: 8.595840e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) obj: 8.604087e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) obj: 8.604087e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) obj: 8.604087e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) obj: 8.604087e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) obj: 8.604087e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 174 (5.21) obj: 8.604087e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 101 (30.24) ml.loss tr: 163 (4.88) obj: 8.605262e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 104 (31.14) ml.loss tr: 154 (4.61) obj: 8.606690e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 104 (31.14) ml.loss tr: 154 (4.61) obj: 8.606690e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 115 (34.43) ml.loss tr: 186 (5.57) obj: 8.620730e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 106 (31.74) ml.loss tr: 176 (5.27) obj: 8.621738e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 106 (31.74) ml.loss tr: 176 (5.27) obj: 8.621738e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 106 (31.74) ml.loss tr: 176 (5.27) obj: 8.621738e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 116 (34.73) ml.loss tr: 189 (5.66) obj: 8.625403e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 116 (34.73) ml.loss tr: 189 (5.66) obj: 8.625403e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 126 (37.72) ml.loss tr: 172 (5.15) obj: 8.692597e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 126 (37.72) ml.loss tr: 172 (5.15) obj: 8.692597e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 123 (36.83) ml.loss tr: 168 (5.03) obj: 8.692949e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 103 (30.84) ml.loss tr: 196 (5.87) obj: 8.728510e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) obj: 8.729856e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) obj: 8.729856e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) obj: 8.729856e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) obj: 8.729856e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) obj: 8.729856e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) obj: 8.729856e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) obj: 8.729856e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 108 (32.34) ml.loss tr: 191 (5.72) obj: 8.729856e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) obj: 8.771821e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) obj: 8.771821e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) obj: 8.771821e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) obj: 8.771821e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 190 (5.69) obj: 8.771821e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 104 (31.14) ml.loss tr: 201 (6.02) obj: 8.806676e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 204 (6.11) obj: 8.810957e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 204 (6.11) obj: 8.810957e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 109 (32.63) ml.loss tr: 205 (6.14) obj: 8.838867e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 109 (32.63) ml.loss tr: 205 (6.14) obj: 8.838867e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 104 (31.14) ml.loss tr: 179 (5.36) obj: 8.845217e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 106 (31.74) ml.loss tr: 185 (5.54) obj: 8.890069e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 97 (29.04) ml.loss tr: 171 (5.12) obj: 8.899310e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 109 (32.63) ml.loss tr: 185 (5.54) obj: 8.909011e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 134 (40.12) ml.loss tr: 212 (6.35) obj: 9.027489e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 126 (37.72) ml.loss tr: 195 (5.84) obj: 9.064521e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 102 (30.54) ml.loss tr: 164 (4.91) obj: 9.083265e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 102 (30.54) ml.loss tr: 164 (4.91) obj: 9.083265e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 171 (5.12) obj: 9.099783e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 105 (31.44) ml.loss tr: 171 (5.12) obj: 9.099783e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 103 (30.84) ml.loss tr: 164 (4.91) obj: 9.105187e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 103 (30.84) ml.loss tr: 164 (4.91) obj: 9.105187e+02
+19-Feb-2013 17:39:19: td: 6 err_tr: 111 (33.23) ml.loss tr: 159 (4.76) obj: 9.123950e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 111 (33.23) ml.loss tr: 159 (4.76) obj: 9.123950e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 120 (35.93) ml.loss tr: 186 (5.57) obj: 9.172805e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 120 (35.93) ml.loss tr: 186 (5.57) obj: 9.172805e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 132 (39.52) ml.loss tr: 198 (5.93) obj: 9.176845e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 131 (39.22) ml.loss tr: 206 (6.17) obj: 9.180878e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 145 (43.41) ml.loss tr: 205 (6.14) obj: 9.201659e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 123 (36.83) ml.loss tr: 186 (5.57) obj: 9.215336e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 123 (36.83) ml.loss tr: 186 (5.57) obj: 9.215336e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 127 (38.02) ml.loss tr: 186 (5.57) obj: 9.216753e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 127 (38.02) ml.loss tr: 186 (5.57) obj: 9.216753e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 131 (39.22) ml.loss tr: 196 (5.87) obj: 9.226983e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 131 (39.22) ml.loss tr: 196 (5.87) obj: 9.226983e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 131 (39.22) ml.loss tr: 196 (5.87) obj: 9.226983e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 126 (37.72) ml.loss tr: 186 (5.57) obj: 9.254902e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 126 (37.72) ml.loss tr: 186 (5.57) obj: 9.254902e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 126 (37.72) ml.loss tr: 186 (5.57) obj: 9.254902e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 122 (36.53) ml.loss tr: 159 (4.76) obj: 9.260492e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 168 (50.30) ml.loss tr: 227 (6.80) obj: 9.321928e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 122 (36.53) ml.loss tr: 161 (4.82) obj: 9.404706e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) obj: 9.405321e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) obj: 9.405321e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) obj: 9.405321e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) obj: 9.405321e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 127 (38.02) ml.loss tr: 165 (4.94) obj: 9.405321e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 130 (38.92) ml.loss tr: 214 (6.41) obj: 9.446353e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 130 (38.92) ml.loss tr: 214 (6.41) obj: 9.446353e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 130 (38.92) ml.loss tr: 214 (6.41) obj: 9.446353e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 124 (37.13) ml.loss tr: 167 (5.00) obj: 9.451661e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 113 (33.83) ml.loss tr: 181 (5.42) obj: 9.470698e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 113 (33.83) ml.loss tr: 181 (5.42) obj: 9.470698e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 113 (33.83) ml.loss tr: 181 (5.42) obj: 9.470698e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 132 (39.52) ml.loss tr: 243 (7.28) obj: 9.505968e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 125 (37.43) ml.loss tr: 196 (5.87) obj: 9.525173e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 120 (35.93) ml.loss tr: 190 (5.69) obj: 9.571503e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 116 (34.73) ml.loss tr: 178 (5.33) obj: 9.573329e+02
+19-Feb-2013 17:39:19: td: 7 err_tr: 123 (36.83) ml.loss tr: 177 (5.30) obj: 9.640965e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 151 (45.21) ml.loss tr: 221 (6.62) obj: 9.672374e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 151 (45.21) ml.loss tr: 221 (6.62) obj: 9.672374e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) obj: 9.696431e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) obj: 9.696431e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) obj: 9.696431e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) obj: 9.696431e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 149 (44.61) ml.loss tr: 207 (6.20) obj: 9.696431e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 131 (39.22) ml.loss tr: 199 (5.96) obj: 9.710870e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 131 (39.22) ml.loss tr: 199 (5.96) obj: 9.710870e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 131 (39.22) ml.loss tr: 199 (5.96) obj: 9.710870e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 133 (39.82) ml.loss tr: 201 (6.02) obj: 9.710962e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 133 (39.82) ml.loss tr: 201 (6.02) obj: 9.710962e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 138 (41.32) ml.loss tr: 202 (6.05) obj: 9.713420e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 133 (39.82) ml.loss tr: 202 (6.05) obj: 9.730091e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 126 (37.72) ml.loss tr: 184 (5.51) obj: 9.736123e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 139 (41.62) ml.loss tr: 202 (6.05) obj: 9.738371e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 140 (41.92) ml.loss tr: 204 (6.11) obj: 9.739810e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 140 (41.92) ml.loss tr: 204 (6.11) obj: 9.739810e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 133 (39.82) ml.loss tr: 196 (5.87) obj: 9.741467e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 147 (44.01) ml.loss tr: 213 (6.38) obj: 9.743654e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 128 (38.32) ml.loss tr: 190 (5.69) obj: 9.751404e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 119 (35.63) ml.loss tr: 171 (5.12) obj: 9.756341e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 140 (41.92) ml.loss tr: 205 (6.14) obj: 9.776548e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 133 (39.82) ml.loss tr: 197 (5.90) obj: 9.783628e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 133 (39.82) ml.loss tr: 197 (5.90) obj: 9.783628e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 111 (33.23) ml.loss tr: 170 (5.09) obj: 9.788050e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 122 (36.53) ml.loss tr: 183 (5.48) obj: 9.788649e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 122 (36.53) ml.loss tr: 183 (5.48) obj: 9.788649e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 125 (37.43) ml.loss tr: 209 (6.26) obj: 9.822995e+02
+19-Feb-2013 17:39:20: td: 7 err_tr: 125 (37.43) ml.loss tr: 209 (6.26) obj: 9.822995e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 125 (37.43) ml.loss tr: 207 (6.20) obj: 9.823063e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 120 (35.93) ml.loss tr: 199 (5.96) obj: 9.824708e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 120 (35.93) ml.loss tr: 199 (5.96) obj: 9.824708e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 121 (36.23) ml.loss tr: 198 (5.93) obj: 9.825471e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 119 (35.63) ml.loss tr: 196 (5.87) obj: 9.831896e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 119 (35.63) ml.loss tr: 196 (5.87) obj: 9.831896e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 121 (36.23) ml.loss tr: 201 (6.02) obj: 9.835996e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 135 (40.42) ml.loss tr: 206 (6.17) obj: 9.875215e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 135 (40.42) ml.loss tr: 206 (6.17) obj: 9.875215e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 119 (35.63) ml.loss tr: 173 (5.18) obj: 9.885101e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 119 (35.63) ml.loss tr: 173 (5.18) obj: 9.885101e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 119 (35.63) ml.loss tr: 173 (5.18) obj: 9.885101e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 143 (42.81) ml.loss tr: 234 (7.01) obj: 9.921701e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 133 (39.82) ml.loss tr: 186 (5.57) obj: 9.938929e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 151 (45.21) ml.loss tr: 188 (5.63) obj: 9.962502e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 151 (45.21) ml.loss tr: 188 (5.63) obj: 9.962502e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 143 (42.81) ml.loss tr: 185 (5.54) obj: 9.967764e+02
+19-Feb-2013 17:39:20: td: 8 err_tr: 142 (42.51) ml.loss tr: 190 (5.69) obj: 1.002005e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 142 (42.51) ml.loss tr: 190 (5.69) obj: 1.002005e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 151 (45.21) ml.loss tr: 201 (6.02) obj: 1.003864e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 142 (42.51) ml.loss tr: 203 (6.08) obj: 1.006740e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 142 (42.51) ml.loss tr: 203 (6.08) obj: 1.006740e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 148 (44.31) ml.loss tr: 233 (6.98) obj: 1.008623e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 143 (42.81) ml.loss tr: 213 (6.38) obj: 1.008821e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 143 (42.81) ml.loss tr: 213 (6.38) obj: 1.008821e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 146 (43.71) ml.loss tr: 323 (9.67) obj: 1.021652e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 160 (47.90) ml.loss tr: 342 (10.24) obj: 1.028049e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 160 (47.90) ml.loss tr: 342 (10.24) obj: 1.028049e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 160 (47.90) ml.loss tr: 342 (10.24) obj: 1.028049e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 160 (47.90) ml.loss tr: 342 (10.24) obj: 1.028049e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 129 (38.62) ml.loss tr: 214 (6.41) obj: 1.029834e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 138 (41.32) ml.loss tr: 229 (6.86) obj: 1.030106e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 136 (40.72) ml.loss tr: 219 (6.56) obj: 1.030876e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 125 (37.43) ml.loss tr: 192 (5.75) obj: 1.031225e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 150 (44.91) ml.loss tr: 196 (5.87) obj: 1.036271e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 137 (41.02) ml.loss tr: 235 (7.04) obj: 1.047090e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 116 (34.73) ml.loss tr: 169 (5.06) obj: 1.048861e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 106 (31.74) ml.loss tr: 149 (4.46) obj: 1.049219e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 106 (31.74) ml.loss tr: 149 (4.46) obj: 1.049219e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 107 (32.04) ml.loss tr: 148 (4.43) obj: 1.049221e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 100 (29.94) ml.loss tr: 139 (4.16) obj: 1.052103e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 112 (33.53) ml.loss tr: 148 (4.43) obj: 1.052376e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 112 (33.53) ml.loss tr: 148 (4.43) obj: 1.052376e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 120 (35.93) ml.loss tr: 157 (4.70) obj: 1.052722e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 115 (34.43) ml.loss tr: 158 (4.73) obj: 1.054673e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 117 (35.03) ml.loss tr: 164 (4.91) obj: 1.054700e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 117 (35.03) ml.loss tr: 164 (4.91) obj: 1.054700e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 117 (35.03) ml.loss tr: 183 (5.48) obj: 1.059247e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 123 (36.83) ml.loss tr: 170 (5.09) obj: 1.060403e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 115 (34.43) ml.loss tr: 198 (5.93) obj: 1.064509e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 115 (34.43) ml.loss tr: 198 (5.93) obj: 1.064509e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 115 (34.43) ml.loss tr: 198 (5.93) obj: 1.064509e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 115 (34.43) ml.loss tr: 198 (5.93) obj: 1.064509e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 107 (32.04) ml.loss tr: 152 (4.55) obj: 1.068951e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 109 (32.63) ml.loss tr: 166 (4.97) obj: 1.070125e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 111 (33.23) ml.loss tr: 172 (5.15) obj: 1.070450e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 111 (33.23) ml.loss tr: 172 (5.15) obj: 1.070450e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 128 (38.32) ml.loss tr: 189 (5.66) obj: 1.071851e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 128 (38.32) ml.loss tr: 189 (5.66) obj: 1.071851e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 128 (38.32) ml.loss tr: 189 (5.66) obj: 1.071851e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 137 (41.02) ml.loss tr: 210 (6.29) obj: 1.073435e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 125 (37.43) ml.loss tr: 168 (5.03) obj: 1.077721e+03
+19-Feb-2013 17:39:20: td: 8 err_tr: 125 (37.43) ml.loss tr: 168 (5.03) obj: 1.077721e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 125 (37.43) ml.loss tr: 168 (5.03) obj: 1.077721e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 121 (36.23) ml.loss tr: 166 (4.97) obj: 1.078610e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) obj: 1.078776e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) obj: 1.078776e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) obj: 1.078776e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) obj: 1.078871e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) obj: 1.078871e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) obj: 1.078871e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 115 (34.43) ml.loss tr: 164 (4.91) obj: 1.080804e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 115 (34.43) ml.loss tr: 164 (4.91) obj: 1.080804e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 117 (35.03) ml.loss tr: 175 (5.24) obj: 1.081734e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 120 (35.93) ml.loss tr: 208 (6.23) obj: 1.085704e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 120 (35.93) ml.loss tr: 208 (6.23) obj: 1.085704e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 125 (37.43) ml.loss tr: 182 (5.45) obj: 1.086955e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 114 (34.13) ml.loss tr: 163 (4.88) obj: 1.087777e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) obj: 1.089695e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) obj: 1.089695e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) obj: 1.089695e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) obj: 1.089695e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) obj: 1.089695e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 128 (38.32) ml.loss tr: 199 (5.96) obj: 1.089695e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 134 (40.12) ml.loss tr: 197 (5.90) obj: 1.089891e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 112 (33.53) ml.loss tr: 150 (4.49) obj: 1.092531e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 156 (4.67) obj: 1.092845e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 156 (4.67) obj: 1.092845e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 156 (4.67) obj: 1.092845e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 156 (4.67) obj: 1.092845e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 115 (34.43) ml.loss tr: 152 (4.55) obj: 1.095987e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 115 (34.43) ml.loss tr: 152 (4.55) obj: 1.095987e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 115 (34.43) ml.loss tr: 152 (4.55) obj: 1.095987e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 120 (35.93) ml.loss tr: 174 (5.21) obj: 1.098581e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 120 (35.93) ml.loss tr: 174 (5.21) obj: 1.098581e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 120 (35.93) ml.loss tr: 174 (5.21) obj: 1.098581e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 113 (33.83) ml.loss tr: 163 (4.88) obj: 1.098709e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 113 (33.83) ml.loss tr: 163 (4.88) obj: 1.098709e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 105 (31.44) ml.loss tr: 162 (4.85) obj: 1.098981e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 120 (35.93) ml.loss tr: 182 (5.45) obj: 1.099215e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 107 (32.04) ml.loss tr: 164 (4.91) obj: 1.099346e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 111 (33.23) ml.loss tr: 167 (5.00) obj: 1.099868e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 112 (33.53) ml.loss tr: 159 (4.76) obj: 1.100682e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 104 (31.14) ml.loss tr: 139 (4.16) obj: 1.104035e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 104 (31.14) ml.loss tr: 139 (4.16) obj: 1.104035e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 102 (30.54) ml.loss tr: 141 (4.22) obj: 1.104154e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 105 (31.44) ml.loss tr: 156 (4.67) obj: 1.104875e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 107 (32.04) ml.loss tr: 164 (4.91) obj: 1.108651e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 115 (34.43) ml.loss tr: 172 (5.15) obj: 1.109300e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 105 (31.44) ml.loss tr: 151 (4.52) obj: 1.113319e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 105 (31.44) ml.loss tr: 151 (4.52) obj: 1.113319e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 132 (39.52) ml.loss tr: 182 (5.45) obj: 1.115454e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 132 (39.52) ml.loss tr: 182 (5.45) obj: 1.115454e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 139 (41.62) ml.loss tr: 250 (7.49) obj: 1.117246e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 139 (41.62) ml.loss tr: 250 (7.49) obj: 1.117246e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 139 (41.62) ml.loss tr: 250 (7.49) obj: 1.117246e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 139 (41.62) ml.loss tr: 250 (7.49) obj: 1.117246e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 114 (34.13) ml.loss tr: 179 (5.36) obj: 1.122149e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 114 (34.13) ml.loss tr: 179 (5.36) obj: 1.122153e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 115 (34.43) ml.loss tr: 174 (5.21) obj: 1.122362e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 115 (34.43) ml.loss tr: 174 (5.21) obj: 1.122362e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 145 (43.41) ml.loss tr: 210 (6.29) obj: 1.127688e+03
+19-Feb-2013 17:39:20: td: 9 err_tr: 138 (41.32) ml.loss tr: 208 (6.23) obj: 1.128079e+03
+19-Feb-2013 17:39:20: td: 10 err_tr: 134 (40.12) ml.loss tr: 204 (6.11) obj: 1.128131e+03
+19-Feb-2013 17:39:20: td: 10 err_tr: 134 (40.12) ml.loss tr: 204 (6.11) obj: 1.128131e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 114 (34.13) ml.loss tr: 172 (5.15) obj: 1.131447e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 116 (34.73) ml.loss tr: 171 (5.12) obj: 1.132223e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 102 (30.54) ml.loss tr: 144 (4.31) obj: 1.136102e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 102 (30.54) ml.loss tr: 144 (4.31) obj: 1.136102e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 102 (30.54) ml.loss tr: 144 (4.31) obj: 1.136102e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 108 (32.34) ml.loss tr: 153 (4.58) obj: 1.136434e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) obj: 1.138518e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) obj: 1.138518e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 112 (33.53) ml.loss tr: 160 (4.79) obj: 1.141504e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 112 (33.53) ml.loss tr: 160 (4.79) obj: 1.141504e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 112 (33.53) ml.loss tr: 160 (4.79) obj: 1.141504e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 116 (34.73) ml.loss tr: 164 (4.91) obj: 1.141992e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 116 (34.73) ml.loss tr: 164 (4.91) obj: 1.141992e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 117 (35.03) ml.loss tr: 169 (5.06) obj: 1.142115e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 116 (34.73) ml.loss tr: 168 (5.03) obj: 1.142116e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 138 (41.32) ml.loss tr: 171 (5.12) obj: 1.145637e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 138 (41.32) ml.loss tr: 171 (5.12) obj: 1.145637e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 138 (41.32) ml.loss tr: 171 (5.12) obj: 1.145637e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 130 (38.92) ml.loss tr: 179 (5.36) obj: 1.147164e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 123 (36.83) ml.loss tr: 172 (5.15) obj: 1.147355e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 123 (36.83) ml.loss tr: 172 (5.15) obj: 1.147355e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 129 (38.62) ml.loss tr: 169 (5.06) obj: 1.147433e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 138 (41.32) ml.loss tr: 215 (6.44) obj: 1.152405e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 138 (41.32) ml.loss tr: 215 (6.44) obj: 1.152405e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 136 (40.72) ml.loss tr: 213 (6.38) obj: 1.152421e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 136 (40.72) ml.loss tr: 213 (6.38) obj: 1.152421e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 131 (39.22) ml.loss tr: 194 (5.81) obj: 1.155557e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 131 (39.22) ml.loss tr: 195 (5.84) obj: 1.155561e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 117 (35.03) ml.loss tr: 169 (5.06) obj: 1.155874e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 108 (32.34) ml.loss tr: 163 (4.88) obj: 1.156791e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 108 (32.34) ml.loss tr: 163 (4.88) obj: 1.156791e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) obj: 1.156838e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) obj: 1.156838e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) obj: 1.156838e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 107 (32.04) ml.loss tr: 162 (4.85) obj: 1.156838e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 119 (35.63) ml.loss tr: 192 (5.75) obj: 1.159082e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 119 (35.63) ml.loss tr: 186 (5.57) obj: 1.159553e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) obj: 1.162010e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) obj: 1.162010e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) obj: 1.162010e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) obj: 1.162010e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 124 (37.13) ml.loss tr: 182 (5.45) obj: 1.162010e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 115 (34.43) ml.loss tr: 169 (5.06) obj: 1.164102e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 115 (34.43) ml.loss tr: 169 (5.06) obj: 1.164102e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 114 (34.13) ml.loss tr: 167 (5.00) obj: 1.164118e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 114 (34.13) ml.loss tr: 167 (5.00) obj: 1.164118e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) obj: 1.164473e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) obj: 1.164473e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) obj: 1.164473e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) obj: 1.164473e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 103 (30.84) ml.loss tr: 143 (4.28) obj: 1.164473e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 112 (33.53) ml.loss tr: 169 (5.06) obj: 1.165283e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 133 (39.82) ml.loss tr: 208 (6.23) obj: 1.165951e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 129 (38.62) ml.loss tr: 189 (5.66) obj: 1.167149e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 153 (45.81) ml.loss tr: 226 (6.77) obj: 1.174421e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 128 (38.32) ml.loss tr: 194 (5.81) obj: 1.180339e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 129 (38.62) ml.loss tr: 193 (5.78) obj: 1.180765e+03
+19-Feb-2013 17:39:21: td: 10 err_tr: 122 (36.53) ml.loss tr: 175 (5.24) obj: 1.187982e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 130 (38.92) ml.loss tr: 191 (5.72) obj: 1.188482e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 117 (35.03) ml.loss tr: 160 (4.79) obj: 1.188931e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 114 (34.13) ml.loss tr: 159 (4.76) obj: 1.189900e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 102 (30.54) ml.loss tr: 144 (4.31) obj: 1.190159e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 106 (31.74) ml.loss tr: 131 (3.92) obj: 1.192047e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 106 (31.74) ml.loss tr: 133 (3.98) obj: 1.192178e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 128 (38.32) ml.loss tr: 157 (4.70) obj: 1.196455e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 128 (38.32) ml.loss tr: 157 (4.70) obj: 1.196455e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) obj: 1.196488e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) obj: 1.196488e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) obj: 1.196488e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) obj: 1.196488e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 125 (37.43) ml.loss tr: 156 (4.67) obj: 1.196488e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 134 (40.12) ml.loss tr: 170 (5.09) obj: 1.196882e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 124 (37.13) ml.loss tr: 170 (5.09) obj: 1.199145e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 126 (37.72) ml.loss tr: 167 (5.00) obj: 1.199647e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 126 (37.72) ml.loss tr: 173 (5.18) obj: 1.207596e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) obj: 1.208492e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) obj: 1.208492e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) obj: 1.208492e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) obj: 1.208492e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) obj: 1.208492e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 158 (4.73) obj: 1.208492e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 156 (4.67) obj: 1.208698e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 156 (4.67) obj: 1.208698e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 122 (36.53) ml.loss tr: 156 (4.67) obj: 1.208698e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 127 (38.02) ml.loss tr: 159 (4.76) obj: 1.209100e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 127 (38.02) ml.loss tr: 159 (4.76) obj: 1.209100e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 127 (38.02) ml.loss tr: 158 (4.73) obj: 1.209107e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 111 (33.23) ml.loss tr: 148 (4.43) obj: 1.211076e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 114 (34.13) ml.loss tr: 170 (5.09) obj: 1.213367e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 113 (33.83) ml.loss tr: 152 (4.55) obj: 1.218087e+03
+19-Feb-2013 17:39:21: td: 11 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) err_ts: 60 (36.14) ml.loss ts: 75 (4.52) obj: 1.218087e+03
+21-Feb-2013 13:50:27: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:50:27: td: 0 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 127 (38.02) ml.loss tr: 199 (5.96) obj: 4.840491e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 127 (38.02) ml.loss tr: 199 (5.96) obj: 4.840491e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 111 (33.23) ml.loss tr: 184 (5.51) obj: 4.849140e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 106 (31.74) ml.loss tr: 169 (5.06) obj: 4.851945e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 103 (30.84) ml.loss tr: 172 (5.15) obj: 4.853526e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 103 (30.84) ml.loss tr: 172 (5.15) obj: 4.853526e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 120 (35.93) ml.loss tr: 217 (6.50) obj: 4.875462e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) obj: 4.876103e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) obj: 4.876103e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 115 (34.43) ml.loss tr: 200 (5.99) obj: 4.876103e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 132 (39.52) ml.loss tr: 229 (6.86) obj: 4.882003e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 132 (39.52) ml.loss tr: 229 (6.86) obj: 4.882003e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 144 (43.11) ml.loss tr: 215 (6.44) obj: 4.946527e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 144 (43.11) ml.loss tr: 215 (6.44) obj: 4.946527e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 141 (42.22) ml.loss tr: 208 (6.23) obj: 4.947346e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 125 (37.43) ml.loss tr: 235 (7.04) obj: 4.973791e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) obj: 4.974293e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) obj: 4.974293e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) obj: 4.974293e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 130 (38.92) ml.loss tr: 236 (7.07) obj: 4.974293e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 125 (37.43) ml.loss tr: 235 (7.04) obj: 4.974681e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) obj: 4.975446e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) obj: 4.975446e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 127 (38.02) ml.loss tr: 241 (7.22) obj: 4.975446e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+21-Feb-2013 13:50:28: td: 1 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 99 (29.64) ml.loss tr: 152 (4.55) obj: 5.038086e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 105 (31.44) ml.loss tr: 193 (5.78) obj: 5.056960e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 110 (32.93) ml.loss tr: 181 (5.42) obj: 5.062829e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 110 (32.93) ml.loss tr: 181 (5.42) obj: 5.062829e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 106 (31.74) ml.loss tr: 224 (6.71) obj: 5.070304e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 106 (31.74) ml.loss tr: 224 (6.71) obj: 5.070304e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 104 (31.14) ml.loss tr: 197 (5.90) obj: 5.081416e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 120 (35.93) ml.loss tr: 191 (5.72) obj: 5.118935e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 122 (36.53) ml.loss tr: 174 (5.21) obj: 5.124567e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 108 (32.34) ml.loss tr: 176 (5.27) obj: 5.135762e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 137 (41.02) ml.loss tr: 297 (8.89) obj: 5.296483e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 131 (39.22) ml.loss tr: 226 (6.77) obj: 5.369081e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 119 (35.63) ml.loss tr: 161 (4.82) obj: 5.386596e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 119 (35.63) ml.loss tr: 161 (4.82) obj: 5.386596e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 110 (32.93) ml.loss tr: 163 (4.88) obj: 5.417007e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 110 (32.93) ml.loss tr: 163 (4.88) obj: 5.417007e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 114 (34.13) ml.loss tr: 158 (4.73) obj: 5.425646e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 114 (34.13) ml.loss tr: 158 (4.73) obj: 5.425646e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) obj: 5.439586e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 127 (38.02) ml.loss tr: 174 (5.21) obj: 5.439586e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 127 (38.02) ml.loss tr: 192 (5.75) obj: 5.487011e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 127 (38.02) ml.loss tr: 192 (5.75) obj: 5.487011e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 139 (41.62) ml.loss tr: 207 (6.20) obj: 5.490138e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 135 (40.42) ml.loss tr: 209 (6.26) obj: 5.495497e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 138 (41.32) ml.loss tr: 203 (6.08) obj: 5.507221e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 111 (33.23) ml.loss tr: 175 (5.24) obj: 5.523799e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 111 (33.23) ml.loss tr: 175 (5.24) obj: 5.523799e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 115 (34.43) ml.loss tr: 186 (5.57) obj: 5.524894e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 115 (34.43) ml.loss tr: 186 (5.57) obj: 5.524894e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) obj: 5.544227e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) obj: 5.544227e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 122 (36.53) ml.loss tr: 206 (6.17) obj: 5.544227e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) obj: 5.583069e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) obj: 5.583069e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 133 (39.82) ml.loss tr: 218 (6.53) obj: 5.583069e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 123 (36.83) ml.loss tr: 218 (6.53) obj: 5.588632e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 112 (33.53) ml.loss tr: 188 (5.63) obj: 5.627687e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 138 (41.32) ml.loss tr: 229 (6.86) obj: 5.679909e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 117 (35.03) ml.loss tr: 202 (6.05) obj: 5.693819e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) obj: 5.716313e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) obj: 5.716313e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 128 (38.32) ml.loss tr: 188 (5.63) obj: 5.716313e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 127 (38.02) ml.loss tr: 196 (5.87) obj: 5.718927e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 133 (39.82) ml.loss tr: 212 (6.35) obj: 5.778316e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 133 (39.82) ml.loss tr: 212 (6.35) obj: 5.778316e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 125 (37.43) ml.loss tr: 198 (5.93) obj: 5.779635e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 147 (44.01) ml.loss tr: 249 (7.46) obj: 5.817973e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 129 (38.62) ml.loss tr: 194 (5.81) obj: 5.843786e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 176 (52.69) ml.loss tr: 265 (7.93) obj: 5.939534e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 177 (52.99) ml.loss tr: 269 (8.05) obj: 5.939621e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 170 (50.90) ml.loss tr: 241 (7.22) obj: 6.013599e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 152 (45.51) ml.loss tr: 254 (7.60) obj: 6.101236e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 152 (45.51) ml.loss tr: 254 (7.60) obj: 6.101236e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 143 (42.81) ml.loss tr: 210 (6.29) obj: 6.194647e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 148 (44.31) ml.loss tr: 223 (6.68) obj: 6.201171e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 147 (44.01) ml.loss tr: 222 (6.65) obj: 6.201249e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 144 (43.11) ml.loss tr: 218 (6.53) obj: 6.202109e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 140 (41.92) ml.loss tr: 212 (6.35) obj: 6.202542e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 140 (41.92) ml.loss tr: 212 (6.35) obj: 6.202542e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 147 (44.01) ml.loss tr: 212 (6.35) obj: 6.204132e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 157 (47.01) ml.loss tr: 239 (7.16) obj: 6.221977e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 134 (40.12) ml.loss tr: 205 (6.14) obj: 6.232351e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 151 (45.21) ml.loss tr: 223 (6.68) obj: 6.234190e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 158 (47.31) ml.loss tr: 234 (7.01) obj: 6.234740e+02
+21-Feb-2013 13:50:28: td: 2 err_tr: 158 (47.31) ml.loss tr: 234 (7.01) obj: 6.234740e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 139 (41.62) ml.loss tr: 214 (6.41) obj: 6.238481e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 162 (48.50) ml.loss tr: 239 (7.16) obj: 6.242086e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 135 (40.42) ml.loss tr: 210 (6.29) obj: 6.251644e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 123 (36.83) ml.loss tr: 194 (5.81) obj: 6.258862e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 154 (46.11) ml.loss tr: 231 (6.92) obj: 6.285520e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 138 (41.32) ml.loss tr: 209 (6.26) obj: 6.293457e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 138 (41.32) ml.loss tr: 209 (6.26) obj: 6.293457e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 108 (32.34) ml.loss tr: 177 (5.30) obj: 6.300358e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 134 (40.12) ml.loss tr: 216 (6.47) obj: 6.303704e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 134 (40.12) ml.loss tr: 216 (6.47) obj: 6.303704e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) obj: 6.328043e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) obj: 6.328043e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 125 (37.43) ml.loss tr: 191 (5.72) obj: 6.328174e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) obj: 6.331840e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) obj: 6.331840e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 120 (35.93) ml.loss tr: 183 (5.48) obj: 6.332379e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 114 (34.13) ml.loss tr: 189 (5.66) obj: 6.339782e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 114 (34.13) ml.loss tr: 189 (5.66) obj: 6.339782e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 119 (35.63) ml.loss tr: 183 (5.48) obj: 6.345789e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 144 (43.11) ml.loss tr: 253 (7.57) obj: 6.389870e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 144 (43.11) ml.loss tr: 253 (7.57) obj: 6.389870e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) obj: 6.403964e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) obj: 6.403964e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 137 (41.02) ml.loss tr: 216 (6.47) obj: 6.403964e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 154 (46.11) ml.loss tr: 280 (8.38) obj: 6.460355e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 166 (49.70) ml.loss tr: 285 (8.53) obj: 6.474675e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 161 (48.20) ml.loss tr: 251 (7.51) obj: 6.505669e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 161 (48.20) ml.loss tr: 251 (7.51) obj: 6.505669e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 159 (47.60) ml.loss tr: 225 (6.74) obj: 6.527997e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 156 (46.71) ml.loss tr: 245 (7.34) obj: 6.580207e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 150 (44.91) ml.loss tr: 215 (6.44) obj: 6.583279e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 162 (48.50) ml.loss tr: 231 (6.92) obj: 6.604819e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 158 (47.31) ml.loss tr: 237 (7.10) obj: 6.633152e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 158 (47.31) ml.loss tr: 237 (7.10) obj: 6.633152e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 156 (46.71) ml.loss tr: 258 (7.72) obj: 6.658361e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 147 (44.01) ml.loss tr: 245 (7.34) obj: 6.659067e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 147 (44.01) ml.loss tr: 245 (7.34) obj: 6.659067e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 156 (46.71) ml.loss tr: 458 (13.71) obj: 6.733362e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) obj: 6.751010e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) obj: 6.751010e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) obj: 6.751010e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 158 (47.31) ml.loss tr: 341 (10.21) obj: 6.751010e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 142 (42.51) ml.loss tr: 235 (7.04) obj: 6.764805e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 146 (43.71) ml.loss tr: 240 (7.19) obj: 6.765560e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 148 (44.31) ml.loss tr: 242 (7.25) obj: 6.772184e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 130 (38.92) ml.loss tr: 216 (6.47) obj: 6.788143e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 167 (50.00) ml.loss tr: 233 (6.98) obj: 6.824806e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 140 (41.92) ml.loss tr: 242 (7.25) obj: 6.927755e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 119 (35.63) ml.loss tr: 175 (5.24) obj: 6.953901e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) obj: 6.961558e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) obj: 6.961558e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 104 (31.14) ml.loss tr: 134 (4.01) obj: 6.961558e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 120 (35.93) ml.loss tr: 179 (5.36) obj: 6.992491e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 110 (32.93) ml.loss tr: 170 (5.09) obj: 6.998877e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 110 (32.93) ml.loss tr: 170 (5.09) obj: 6.998877e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 111 (33.23) ml.loss tr: 169 (5.06) obj: 6.999899e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) obj: 7.022797e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) obj: 7.022797e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 110 (32.93) ml.loss tr: 174 (5.21) obj: 7.022797e+02
+21-Feb-2013 13:50:28: td: 3 err_tr: 100 (29.94) ml.loss tr: 166 (4.97) obj: 7.048548e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 111 (33.23) ml.loss tr: 192 (5.75) obj: 7.063561e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) obj: 7.139022e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) obj: 7.139022e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) obj: 7.139022e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 133 (39.82) ml.loss tr: 244 (7.31) obj: 7.139022e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 123 (36.83) ml.loss tr: 178 (5.33) obj: 7.186429e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 97 (29.04) ml.loss tr: 150 (4.49) obj: 7.198432e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 107 (32.04) ml.loss tr: 165 (4.94) obj: 7.199143e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 107 (32.04) ml.loss tr: 165 (4.94) obj: 7.199143e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) obj: 7.213926e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) obj: 7.213926e+02
+21-Feb-2013 13:50:29: td: 3 err_tr: 120 (35.93) ml.loss tr: 158 (4.73) obj: 7.213926e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 136 (40.72) ml.loss tr: 193 (5.78) obj: 7.233548e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 134 (40.12) ml.loss tr: 177 (5.30) obj: 7.257280e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 134 (40.12) ml.loss tr: 177 (5.30) obj: 7.257280e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 131 (39.22) ml.loss tr: 160 (4.79) obj: 7.258684e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 120 (35.93) ml.loss tr: 148 (4.43) obj: 7.264746e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) obj: 7.268407e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) obj: 7.268407e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 105 (31.44) ml.loss tr: 127 (3.80) obj: 7.268407e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) obj: 7.270285e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) obj: 7.270285e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 103 (30.84) ml.loss tr: 127 (3.80) obj: 7.270285e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 115 (34.43) ml.loss tr: 147 (4.40) obj: 7.277781e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 115 (34.43) ml.loss tr: 147 (4.40) obj: 7.277781e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 100 (29.94) ml.loss tr: 132 (3.95) obj: 7.286435e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 120 (35.93) ml.loss tr: 189 (5.66) obj: 7.325690e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 120 (35.93) ml.loss tr: 189 (5.66) obj: 7.325690e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 121 (36.23) ml.loss tr: 172 (5.15) obj: 7.345924e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 110 (32.93) ml.loss tr: 149 (4.46) obj: 7.350785e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 133 (39.82) ml.loss tr: 185 (5.54) obj: 7.371729e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 141 (42.22) ml.loss tr: 194 (5.81) obj: 7.373299e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 111 (33.23) ml.loss tr: 153 (4.58) obj: 7.398827e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) obj: 7.401333e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) obj: 7.401333e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) obj: 7.401333e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 109 (32.63) ml.loss tr: 149 (4.46) obj: 7.401333e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) obj: 7.432482e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) obj: 7.432482e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 117 (35.03) ml.loss tr: 172 (5.15) obj: 7.432482e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) obj: 7.457511e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) obj: 7.457511e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 118 (35.33) ml.loss tr: 159 (4.76) obj: 7.457511e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 112 (33.53) ml.loss tr: 150 (4.49) obj: 7.458627e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 112 (33.53) ml.loss tr: 150 (4.49) obj: 7.458627e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 118 (35.33) ml.loss tr: 153 (4.58) obj: 7.461943e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 119 (35.63) ml.loss tr: 157 (4.70) obj: 7.462218e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 103 (30.84) ml.loss tr: 134 (4.01) obj: 7.463976e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 106 (31.74) ml.loss tr: 152 (4.55) obj: 7.482227e+02
+21-Feb-2013 13:50:29: td: 4 err_tr: 109 (32.63) ml.loss tr: 146 (4.37) obj: 7.486816e+02
+21-Feb-2013 13:52:56: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:52:56: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+21-Feb-2013 13:52:57: td: 1 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+21-Feb-2013 13:52:57: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) err_ts: 59 (35.54) ml.loss ts: 84 (5.06) obj: 4.825097e+02
+21-Feb-2013 13:54:06: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:54:06: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+21-Feb-2013 13:54:06: td: 1 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+21-Feb-2013 13:54:06: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) err_ts: 59 (35.54) ml.loss ts: 84 (5.06) obj: 4.825097e+02
+21-Feb-2013 13:54:12: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:54:12: td: 0 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+21-Feb-2013 13:55:58: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:55:59: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+21-Feb-2013 13:55:59: td: 1 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+21-Feb-2013 13:55:59: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) err_ts: 59 (35.54) ml.loss ts: 84 (5.06) obj: 4.825097e+02
+21-Feb-2013 13:56:05: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:56:06: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+21-Feb-2013 13:56:06: td: 1 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+21-Feb-2013 13:56:06: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) err_ts: 59 (35.54) ml.loss ts: 84 (5.06) obj: 4.825097e+02
+21-Feb-2013 13:56:12: td: 0 err_tr: 203 (60.78) ml.loss tr: 528 (15.81) obj: 0
+21-Feb-2013 13:56:12: td: 0 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) obj: 4.825097e+02
+21-Feb-2013 13:56:12: td: 1 err_tr: 111 (33.23) ml.loss tr: 166 (4.97) obj: 8.581000e+02
+21-Feb-2013 13:56:12: td: 1 err_tr: 109 (32.63) ml.loss tr: 159 (4.76) err_ts: 59 (35.54) ml.loss ts: 84 (5.06) obj: 4.825097e+02

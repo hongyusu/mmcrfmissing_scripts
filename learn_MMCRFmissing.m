@@ -26,10 +26,12 @@
 
 
 
-function rtn=learn_MMCRFmissing
+function [rtn,ts_err] =learn_MMCRFmissing(paramsIn,dataIn)
     % Input data assumed by the algorithm
     global Kx_tr; % X-kernel, assume to be positive semidefinite and normalized (Kx_tr(i,i) = 1)
+    global Kx_ts;
     global Y_tr; % Y-data: assumed to be class labels encoded {-1,+1}
+    global Y_ts;
     global E; % edges of the Markov network e_i = [E(i,1),E(i,2)];
     global params; % parameters use by the learning algorithm
     global loss; % losses associated with different edge labelings
@@ -43,6 +45,13 @@ function rtn=learn_MMCRFmissing
     global profile;
     global obj;
     global opt_round;
+    
+    params=paramsIn;
+    Kx_tr=dataIn.Kx_tr;
+    Kx_ts=dataIn.Kx_ts;
+    Y_tr=dataIn.Y_tr;
+    Y_ts=dataIn.Y_ts;
+    E=dataIn.E;
     
     optimizer_init;
     
@@ -69,7 +78,7 @@ function rtn=learn_MMCRFmissing
     primal_ub = Inf;
     iter = 0;
     opt_round = 0;
-    profile_update;
+    profile_update_tr;
     compute_duality_gap;
     profile.n_err_microlbl_prev=profile.n_err_microlbl;
     progress_made = 1;
@@ -111,7 +120,7 @@ function rtn=learn_MMCRFmissing
 		print_message('Duality gap and primal upper bound',3);
 		compute_duality_gap;
 		profile.next_profile_tm = 0;
-        profile_update;
+        profile_update_tr;
         
     end     % end while
     %ddd
@@ -122,28 +131,32 @@ function rtn=learn_MMCRFmissing
         Smu=prev_Smu;
         Kxx_mu_x=prev_Kxx_mu_x;
     end
-    % continue searching 
+    % after achieve current optimal solution, continue searching for the
+    % $mu$ that minimize the training error in the next 2 iteration
     if 1==1
         opt_mu=0;
         ts_err=1e10;
         tr_err=1e10;
         iter=0;
-        for x = 1:m
+        for x = [1:m,1:m]
             % obtain initial gradient for index-x
             Kmu_x = compute_Kmu_x(x,Kx_tr(:,x));            
             % conditional gradient optimization on index-x
             [mu(:,x),Kxx_mu_x(:,x),obj,x_iter] = optimize_x(x, obj, mu(:,x), Kmu_x, Kxx_mu_x(:,x),loss(:,x),Ye(:,x),params.C,params.max_CGD_iter);
-            profile_update;
+            profile_update_tr;
             if tr_err>profile.n_err_microlbl
                 tr_err = profile.n_err_microlbl;
-                ts_err = profile.n_err_microlbl_ts;
+                %ts_err = profile.n_err_microlbl_ts;
                 opt_mu=mu;
             end
         end
         mu=opt_mu;
     end
     profile_update;
-    
+    disp(nargout)
+    if nargout >= 2
+        ts_err=profile.n_err_microlbl_ts;
+    end
     rtn = mu;
 end
 
@@ -203,7 +216,7 @@ function compute_duality_gap
     dgap = Inf; LBP_iter = 1;Gmax = -Inf;
     while LBP_iter <= size(E,1)
         LBP_iter = LBP_iter*2; % no of iterations = diameter of the graph
-        [Ymax,YmaxVal,G] = max_gradient_labeling(gradient,LBP_iter); 
+        [~,~,G] = max_gradient_labeling(gradient,LBP_iter); 
         Gmax = max(Gmax,G);
 
         duality_gap = params.C*max(Gmax,0) - sum(reshape(sum(gradient.*mu),size(E,1),m),1)';
@@ -243,7 +256,7 @@ function [mu_x,Kxx_mu_x,obj,iter] = optimize_x(x,obj,mu_x,Kmu_x,Kxx_mu_x,loss_x,
         end
         % find maximum gradient labeling, Ymax-labeling, Gmax-global maxima
         % under gradient labeling
-        [Ymax,YmaxVal,Gmax] = max_gradient_labeling(gradient);
+        [Ymax,~,Gmax] = max_gradient_labeling(gradient);
         % gradient towards zero, current maxima
         G0 = -mu_x'*gradient;
                 
@@ -389,6 +402,44 @@ function profile_update
 
         sfile = sprintf('Ypred_%s.mat',params.filestem);
         save(sfile,'Ypred_tr','Ypred_ts','params','Ypred_ts_val');
+        Ye = reshape(Ye,4*size(E,1),m);
+    end
+end
+
+
+function profile_update_tr
+    global params;
+    global profile;
+    global E;
+    global Ye;
+    global Y_tr;
+    global Kx_tr;
+    global Y_ts;
+    global Kx_ts;
+    global Y_pred;
+    global Y_predVal;
+    global mu;
+    global obj;
+    global primal_ub;
+    m = size(Ye,2);
+    tm = cputime;
+    print_message(sprintf('alg: M3LBP tm: %d  iter: %d obj: %f mu: max %f min %f dgap: %f',...
+    round(tm-profile.start_time),profile.iter,obj,max(max(mu)),min(min(mu)),primal_ub-obj),5,sprintf('%s.log',params.filestem));
+    if params.profiling
+        profile.next_profile_tm = profile.next_profile_tm + params.profile_tm_interval;
+        profile.n_err_microlbl_prev = profile.n_err_microlbl;
+
+        [Ypred_tr,Ypred_tr_val] = compute_error(Y_tr,Kx_tr);
+        profile.microlabel_errors = sum(abs(Ypred_tr-Y_tr) >0,2);
+        profile.n_err_microlbl = sum(profile.microlabel_errors);
+        profile.p_err_microlbl = profile.n_err_microlbl/numel(Y_tr);
+        profile.n_err = sum(profile.microlabel_errors > 0);
+        profile.p_err = profile.n_err/length(profile.microlabel_errors);
+
+        print_message(sprintf('td: %d err_tr: %d (%3.2f) ml.loss tr: %d (%3.2f) obj: %d',...
+        round(tm-profile.start_time),profile.n_err,profile.p_err*100,profile.n_err_microlbl,profile.p_err_microlbl*100,obj),0,sprintf('%s.log',params.filestem));
+        %print_message(sprintf('%d here',profile.microlabel_errors_ts),4);
+
         Ye = reshape(Ye,4*size(E,1),m);
     end
 end
